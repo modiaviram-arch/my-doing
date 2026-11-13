@@ -1,9 +1,70 @@
 {
- "generated": "2026-11-13T18:14:05.385Z",
+ "generated": "2026-11-13T19:16:43.322Z",
  "app": "0.33",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
  "since_last_sync": "2026-11-13T18:13:53.081Z",
- "events_since_last_sync": [],
+ "events_since_last_sync": [
+  {
+   "ts": "2026-11-13T18:18:47.454Z",
+   "type": "done",
+   "id": "mw4xrlqvathde",
+   "device": "טלפון",
+   "extId": "tt-6ae98ca648f474e51ba5a3f3",
+   "title": "לנסות לתקן מחשב קטן",
+   "list": null,
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:49.161Z",
+   "type": "done",
+   "id": "mw6c94crzvgfv",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לקבוע טיפול עם באטריס",
+   "list": null,
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:52.302Z",
+   "type": "done",
+   "id": "mwdgn7ee69r54",
+   "device": "טלפון",
+   "extId": "cl-garden-20261110-1",
+   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
+   "list": "גינה",
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:54.843Z",
+   "type": "done",
+   "id": "mw7p7i5pruk6r",
+   "device": "טלפון",
+   "extId": "cl-nyc-20261108-3",
+   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
+   "list": "נסיעות",
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:55.536Z",
+   "type": "done",
+   "id": "mw7p7i5ovefmo",
+   "device": "טלפון",
+   "extId": "cl-nyc-20261108-2",
+   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
+   "list": "נסיעות",
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:19:02.649Z",
+   "type": "done",
+   "id": "mw7p7i5ofnmiq",
+   "device": "טלפון",
+   "extId": "cl-nyc-20261108-1",
+   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
+   "list": "נסיעות",
+   "date": "2026-11-13"
+  }
+ ],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -802,18 +863,69 @@
    "title": "CT קלציום סקור לרחל — אסותא חיפה (שד' ההסתדרות 55, קומה 3)",
    "list": null,
    "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:47.454Z",
+   "type": "done",
+   "id": "mw4xrlqvathde",
+   "device": "טלפון",
+   "extId": "tt-6ae98ca648f474e51ba5a3f3",
+   "title": "לנסות לתקן מחשב קטן",
+   "list": null,
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:49.161Z",
+   "type": "done",
+   "id": "mw6c94crzvgfv",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לקבוע טיפול עם באטריס",
+   "list": null,
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:52.302Z",
+   "type": "done",
+   "id": "mwdgn7ee69r54",
+   "device": "טלפון",
+   "extId": "cl-garden-20261110-1",
+   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
+   "list": "גינה",
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:54.843Z",
+   "type": "done",
+   "id": "mw7p7i5pruk6r",
+   "device": "טלפון",
+   "extId": "cl-nyc-20261108-3",
+   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
+   "list": "נסיעות",
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:18:55.536Z",
+   "type": "done",
+   "id": "mw7p7i5ovefmo",
+   "device": "טלפון",
+   "extId": "cl-nyc-20261108-2",
+   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
+   "list": "נסיעות",
+   "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T18:19:02.649Z",
+   "type": "done",
+   "id": "mw7p7i5ofnmiq",
+   "device": "טלפון",
+   "extId": "cl-nyc-20261108-1",
+   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
+   "list": "נסיעות",
+   "date": "2026-11-13"
   }
  ],
  "open_tasks": [
-  {
-   "id": "mw4xrlqvathde",
-   "extId": "tt-6ae98ca648f474e51ba5a3f3",
-   "title": "לנסות לתקן מחשב קטן",
-   "date": "2026-11-13",
-   "list": null,
-   "rollovers": 6,
-   "overdue": false
-  },
   {
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
@@ -839,15 +951,6 @@
    "date": "2026-11-13",
    "list": null,
    "rollovers": 7,
-   "overdue": false
-  },
-  {
-   "id": "mw6c94crzvgfv",
-   "extId": null,
-   "title": "לקבוע טיפול עם באטריס",
-   "date": "2026-11-13",
-   "list": null,
-   "rollovers": 3,
    "overdue": false
   },
   {
@@ -923,39 +1026,12 @@
    "overdue": false
   },
   {
-   "id": "mw7p7i5ofnmiq",
-   "extId": "cl-nyc-20261108-1",
-   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
-   "date": "2026-11-13",
-   "list": "נסיעות",
-   "rollovers": 2,
-   "overdue": false
-  },
-  {
-   "id": "mw7p7i5ovefmo",
-   "extId": "cl-nyc-20261108-2",
-   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
-   "date": "2026-11-13",
-   "list": "נסיעות",
-   "rollovers": 2,
-   "overdue": false
-  },
-  {
    "id": "mw7p7i5oxf2t3",
    "extId": "cl-garden-20261108-6",
    "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
    "date": "2026-12-02",
    "list": "גינה",
    "rollovers": 0,
-   "overdue": false
-  },
-  {
-   "id": "mw7p7i5pruk6r",
-   "extId": "cl-nyc-20261108-3",
-   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
-   "date": "2026-11-13",
-   "list": "נסיעות",
-   "rollovers": 2,
    "overdue": false
   },
   {
@@ -1022,15 +1098,6 @@
    "overdue": false
   },
   {
-   "id": "mwdgn7ee69r54",
-   "extId": "cl-garden-20261110-1",
-   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
-   "date": "2026-11-13",
-   "list": "גינה",
-   "rollovers": 2,
-   "overdue": false
-  },
-  {
    "id": "mwdgn7efrco6b",
    "extId": "cl-garden-20261110-2",
    "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
@@ -1042,6 +1109,14 @@
  ],
  "done_last_14_days": [
   {
+   "id": "mw4xrlqvathde",
+   "extId": "tt-6ae98ca648f474e51ba5a3f3",
+   "title": "לנסות לתקן מחשב קטן",
+   "status": "done",
+   "doneAt": "2026-11-13T18:18:42.451Z",
+   "list": null
+  },
+  {
    "id": "mw4xrlqx8dpkj",
    "extId": "tt-6aeacb06e05889cee943c20c",
    "title": "בדיקה לרחל",
@@ -1050,11 +1125,43 @@
    "list": null
   },
   {
+   "id": "mw6c94crzvgfv",
+   "extId": null,
+   "title": "לקבוע טיפול עם באטריס",
+   "status": "done",
+   "doneAt": "2026-11-13T18:18:44.155Z",
+   "list": null
+  },
+  {
+   "id": "mw7p7i5ofnmiq",
+   "extId": "cl-nyc-20261108-1",
+   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
+   "status": "done",
+   "doneAt": "2026-11-13T18:18:57.641Z",
+   "list": "נסיעות"
+  },
+  {
+   "id": "mw7p7i5ovefmo",
+   "extId": "cl-nyc-20261108-2",
+   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
+   "status": "done",
+   "doneAt": "2026-11-13T18:18:50.528Z",
+   "list": "נסיעות"
+  },
+  {
    "id": "mw7p7i5pegm4p",
    "extId": "cl-nyc-20261108-4",
    "title": "להזמין: Big Band Holidays, Jazz at Lincoln Center – חמישי 17.12",
    "status": "done",
    "doneAt": "2026-11-11T17:47:10.186Z",
+   "list": "נסיעות"
+  },
+  {
+   "id": "mw7p7i5pruk6r",
+   "extId": "cl-nyc-20261108-3",
+   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
+   "status": "done",
+   "doneAt": "2026-11-13T18:18:49.837Z",
    "list": "נסיעות"
   },
   {
@@ -1104,12 +1211,20 @@
    "status": "done",
    "doneAt": "2026-11-12T17:59:10.184Z",
    "list": null
+  },
+  {
+   "id": "mwdgn7ee69r54",
+   "extId": "cl-garden-20261110-1",
+   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
+   "status": "done",
+   "doneAt": "2026-11-13T18:18:47.299Z",
+   "list": "גינה"
   }
  ],
  "stats": {
-  "open": 26,
+  "open": 20,
   "overdue": 0,
-  "stuck": 5,
+  "stuck": 3,
   "lists": [
    {
     "name": "רעיונות",
@@ -1121,7 +1236,7 @@
    },
    {
     "name": "נסיעות",
-    "open": 9
+    "open": 6
    },
    {
     "name": "טיפולים",
@@ -1129,7 +1244,7 @@
    },
    {
     "name": "גינה",
-    "open": 7
+    "open": 6
    },
    {
     "name": "קניות",
