@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T17:17:37.587Z",
- "app": "0.32",
+ "generated": "2026-11-13T18:13:37.204Z",
+ "app": "0.33",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-13T17:17:33.716Z",
+ "since_last_sync": "2026-11-13T17:17:43.642Z",
  "events_since_last_sync": [],
  "recent_events": [
   {
@@ -734,6 +734,46 @@
    "date": "2026-11-13"
   },
   {
+   "ts": "2026-11-12T11:24:21.398Z",
+   "type": "dup",
+   "id": "mw6c94crzvgfv",
+   "device": "מחשב",
+   "extId": null,
+   "title": "לקבוע טיפול עם באטריס",
+   "dupOf": "לקבוע טיפול עם באטריס",
+   "how": "cleanup"
+  },
+  {
+   "ts": "2026-11-12T11:24:21.399Z",
+   "type": "deleted",
+   "id": "mw6fatzjplfn0",
+   "device": "מחשב",
+   "extId": null,
+   "title": "לקבוע טיפול עם באטריס",
+   "list": null,
+   "date": "2026-11-12"
+  },
+  {
+   "ts": "2026-11-12T11:24:21.404Z",
+   "type": "dup",
+   "id": "mw7p7i5juh0zu",
+   "device": "מחשב",
+   "extId": "cl-garden-20261108-5",
+   "title": "מכל 4.1 – שתילת חסה, תרד ומנגולד",
+   "dupOf": "מכל 4.1 – שתילת חסה, תרד ומנגולד",
+   "how": "cleanup"
+  },
+  {
+   "ts": "2026-11-12T11:24:21.406Z",
+   "type": "deleted",
+   "id": "mw7p7i5nif2cf",
+   "device": "מחשב",
+   "extId": "cl-garden-20261108-5",
+   "title": "מכל 4.1 – שתילת חסה, תרד ומנגולד",
+   "list": "גינה",
+   "date": "2026-12-01"
+  },
+  {
    "ts": "2026-11-12T17:59:15.192Z",
    "type": "done",
    "id": "mwd8ybfy0658s",
@@ -766,6 +806,15 @@
  ],
  "open_tasks": [
   {
+   "id": "mw4xrlqvathde",
+   "extId": "tt-6ae98ca648f474e51ba5a3f3",
+   "title": "לנסות לתקן מחשב קטן",
+   "date": "2026-11-13",
+   "list": null,
+   "rollovers": 6,
+   "overdue": false
+  },
+  {
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
@@ -790,6 +839,15 @@
    "date": "2026-11-13",
    "list": null,
    "rollovers": 7,
+   "overdue": false
+  },
+  {
+   "id": "mw6c94crzvgfv",
+   "extId": null,
+   "title": "לקבוע טיפול עם באטריס",
+   "date": "2026-11-13",
+   "list": null,
+   "rollovers": 3,
    "overdue": false
   },
   {
@@ -865,12 +923,39 @@
    "overdue": false
   },
   {
+   "id": "mw7p7i5ofnmiq",
+   "extId": "cl-nyc-20261108-1",
+   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
+   "date": "2026-11-13",
+   "list": "נסיעות",
+   "rollovers": 2,
+   "overdue": false
+  },
+  {
+   "id": "mw7p7i5ovefmo",
+   "extId": "cl-nyc-20261108-2",
+   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
+   "date": "2026-11-13",
+   "list": "נסיעות",
+   "rollovers": 2,
+   "overdue": false
+  },
+  {
    "id": "mw7p7i5oxf2t3",
    "extId": "cl-garden-20261108-6",
    "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
    "date": "2026-12-02",
    "list": "גינה",
    "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mw7p7i5pruk6r",
+   "extId": "cl-nyc-20261108-3",
+   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
+   "date": "2026-11-13",
+   "list": "נסיעות",
+   "rollovers": 2,
    "overdue": false
   },
   {
@@ -928,20 +1013,29 @@
    "overdue": false
   },
   {
-   "id": "mwaemyqxph0wy",
-   "extId": "cl-garden-20261110-2",
-   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
-   "date": "2026-11-20",
-   "list": "גינה",
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
    "id": "mwauy7hh717bc",
    "extId": null,
    "title": "המשך מחר",
    "date": "2026-11-17",
    "list": null,
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwdgn7ee69r54",
+   "extId": "cl-garden-20261110-1",
+   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
+   "date": "2026-11-13",
+   "list": "גינה",
+   "rollovers": 2,
+   "overdue": false
+  },
+  {
+   "id": "mwdgn7efrco6b",
+   "extId": "cl-garden-20261110-2",
+   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
+   "date": "2026-11-20",
+   "list": "גינה",
    "rollovers": 0,
    "overdue": false
   }
@@ -956,27 +1050,11 @@
    "list": null
   },
   {
-   "id": "mw7p7i5ovefmo",
-   "extId": "cl-nyc-20261108-2",
-   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
-   "status": "done",
-   "doneAt": "2026-11-11T08:37:47.269Z",
-   "list": "נסיעות"
-  },
-  {
    "id": "mw7p7i5pegm4p",
    "extId": "cl-nyc-20261108-4",
    "title": "להזמין: Big Band Holidays, Jazz at Lincoln Center – חמישי 17.12",
    "status": "done",
    "doneAt": "2026-11-11T17:47:10.186Z",
-   "list": "נסיעות"
-  },
-  {
-   "id": "mw7p7i5pruk6r",
-   "extId": "cl-nyc-20261108-3",
-   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
-   "status": "done",
-   "doneAt": "2026-11-11T08:37:46.646Z",
    "list": "נסיעות"
   },
   {
@@ -1029,9 +1107,9 @@
   }
  ],
  "stats": {
-  "open": 20,
+  "open": 26,
   "overdue": 0,
-  "stuck": 3,
+  "stuck": 5,
   "lists": [
    {
     "name": "רעיונות",
@@ -1043,7 +1121,7 @@
    },
    {
     "name": "נסיעות",
-    "open": 6
+    "open": 9
    },
    {
     "name": "טיפולים",
@@ -1051,7 +1129,7 @@
    },
    {
     "name": "גינה",
-    "open": 6
+    "open": 7
    },
    {
     "name": "קניות",
