@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T11:15+02:00",
+ "generated": "2026-11-14T13:52:26+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -212,102 +212,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-25cviemqqs20m3venhj5kof0ss_20261108T061500Z",
-   "date": "2026-11-08",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-h7tqut1c5au7cj8qvkqo4u2rh8_20261108T094000Z",
-   "date": "2026-11-08",
-   "title": "יואב – סיום",
-   "start": "11:40",
-   "end": "11:41",
-   "location": null
-  },
-  {
-   "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261109T070500Z",
-   "date": "2026-11-09",
-   "title": "יואב – התחלה",
-   "start": "09:05",
-   "end": "09:06",
-   "location": null
-  },
-  {
-   "id": "cal-80r9f01nkgnn0fl1n1pa22nf2o_20261109T112500Z",
-   "date": "2026-11-09",
-   "title": "יואב – סיום",
-   "start": "13:25",
-   "end": "13:26",
-   "location": null
-  },
-  {
-   "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261110T053000Z",
-   "date": "2026-11-10",
-   "title": "יואב – התחלה",
-   "start": "07:30",
-   "end": "07:31",
-   "location": null
-  },
-  {
-   "id": "cal-61i68cph68pj4b9k6gr6ab9k6sqj8b9p6soj0b9o70qjaohgcphj4p32co_20261110T095500Z",
-   "date": "2026-11-10",
-   "title": "יואב – סיום",
-   "start": "11:55",
-   "end": "11:56",
-   "location": null
-  },
-  {
-   "id": "cal-nqpefejns9mlj4jf4b9sc7ht6g_20261111T141000Z",
-   "date": "2026-11-11",
-   "title": "יואב – סיום",
-   "start": "16:10",
-   "end": "16:11",
-   "location": null
-  },
-  {
-   "id": "cal-e1t0nkhrt144jh22ufhnftb9cg_20261112T061500Z",
-   "date": "2026-11-12",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-7mc4mm7834f2gl8ehtfnn5o78s_20261112T145500Z",
-   "date": "2026-11-12",
-   "title": "יואב – סיום",
-   "start": "16:55",
-   "end": "16:56",
-   "location": null
-  },
-  {
-   "id": "cal-181q68pkclbk0njqdskrdfgk5g_20261113T061500Z",
-   "date": "2026-11-13",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-6gr34o9g6lh68b9i6tijeb9k6spjcbb170p68bb56gr62d9lc9h3aoj4co",
-   "date": "2026-11-13",
-   "title": "CT קלציום סקור",
-   "start": "09:15",
-   "end": "09:45",
-   "location": "שד' ההסתדרות 55, חיפה, קומה 3"
-  },
-  {
-   "id": "cal-e32ljmmpua6kiragtq4cfpdd3o_20261113T112500Z",
-   "date": "2026-11-13",
-   "title": "יואב – סיום",
-   "start": "13:25",
-   "end": "13:26",
-   "location": null
-  },
-  {
    "id": "cal-25cviemqqs20m3venhj5kof0ss_20261115T061500Z",
    "date": "2026-11-15",
    "title": "יואב – התחלה",
@@ -324,11 +228,19 @@
    "location": null
   },
   {
-   "id": "cal-01g2r8630ba959135uvdse4rmf",
+   "id": "cal-71im8p9m6grj4bb56comcb9k60omab9pc4qj2b9lcdhj2o9g75gm8d9gcc",
    "date": "2026-11-15",
-   "title": "טיסה לניו יורק DELTA 249",
-   "start": "23:00",
-   "end": "16:50",
+   "title": "תור לד\"ר סודרסקי דורון",
+   "start": "11:48",
+   "end": "12:18",
+   "location": "הפטל 2, יקנעם עילית"
+  },
+  {
+   "id": "cal-ckq62d1p6cr3ib9l68s3cb9kccojeb9o74r3cb9kcpi34d34cpimcc1o70",
+   "date": "2026-11-15",
+   "title": "תור לרופאת שיניים",
+   "start": "19:00",
+   "end": "20:00",
    "location": null
   },
   {
@@ -361,6 +273,22 @@
    "title": "יואב – סיום",
    "start": "11:55",
    "end": "11:56",
+   "location": null
+  },
+  {
+   "id": "cal-74sjie366oq36bb3c8pj8b9k64sm8bb160r3gb9hc5h6cor571hj2p1kcc",
+   "date": "2026-11-17",
+   "title": "חתימה על קניית דירה קומה 8",
+   "start": "16:30",
+   "end": "17:30",
+   "location": "Derekh Yafo 21"
+  },
+  {
+   "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261118T090000Z",
+   "date": "2026-11-18",
+   "title": "פלדנקרייז",
+   "start": "11:00",
+   "end": "12:00",
    "location": null
   },
   {
@@ -406,6 +334,102 @@
   {
    "id": "cal-e32ljmmpua6kiragtq4cfpdd3o_20261120T112500Z",
    "date": "2026-11-20",
+   "title": "יואב – סיום",
+   "start": "13:25",
+   "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-25cviemqqs20m3venhj5kof0ss_20261122T061500Z",
+   "date": "2026-11-22",
+   "title": "יואב – התחלה",
+   "start": "08:15",
+   "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-h7tqut1c5au7cj8qvkqo4u2rh8_20261122T094000Z",
+   "date": "2026-11-22",
+   "title": "יואב – סיום",
+   "start": "11:40",
+   "end": "11:41",
+   "location": null
+  },
+  {
+   "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261123T070500Z",
+   "date": "2026-11-23",
+   "title": "יואב – התחלה",
+   "start": "09:05",
+   "end": "09:06",
+   "location": null
+  },
+  {
+   "id": "cal-80r9f01nkgnn0fl1n1pa22nf2o_20261123T112500Z",
+   "date": "2026-11-23",
+   "title": "יואב – סיום",
+   "start": "13:25",
+   "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261124T053000Z",
+   "date": "2026-11-24",
+   "title": "יואב – התחלה",
+   "start": "07:30",
+   "end": "07:31",
+   "location": null
+  },
+  {
+   "id": "cal-61i68cph68pj4b9k6gr6ab9k6sqj8b9p6soj0b9o70qjaohgcphj4p32co_20261124T095500Z",
+   "date": "2026-11-24",
+   "title": "יואב – סיום",
+   "start": "11:55",
+   "end": "11:56",
+   "location": null
+  },
+  {
+   "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261125T090000Z",
+   "date": "2026-11-25",
+   "title": "פלדנקרייז",
+   "start": "11:00",
+   "end": "12:00",
+   "location": null
+  },
+  {
+   "id": "cal-nqpefejns9mlj4jf4b9sc7ht6g_20261125T141000Z",
+   "date": "2026-11-25",
+   "title": "יואב – סיום",
+   "start": "16:10",
+   "end": "16:11",
+   "location": null
+  },
+  {
+   "id": "cal-e1t0nkhrt144jh22ufhnftb9cg_20261126T061500Z",
+   "date": "2026-11-26",
+   "title": "יואב – התחלה",
+   "start": "08:15",
+   "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-7mc4mm7834f2gl8ehtfnn5o78s_20261126T145500Z",
+   "date": "2026-11-26",
+   "title": "יואב – סיום",
+   "start": "16:55",
+   "end": "16:56",
+   "location": null
+  },
+  {
+   "id": "cal-181q68pkclbk0njqdskrdfgk5g_20261127T061500Z",
+   "date": "2026-11-27",
+   "title": "יואב – התחלה",
+   "start": "08:15",
+   "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-e32ljmmpua6kiragtq4cfpdd3o_20261127T112500Z",
+   "date": "2026-11-27",
    "title": "יואב – סיום",
    "start": "13:25",
    "end": "13:26",
