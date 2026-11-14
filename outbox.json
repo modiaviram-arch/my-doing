@@ -1,68 +1,18 @@
 {
- "generated": "2026-11-13T19:16:43.322Z",
+ "generated": "2026-11-14T12:10:06.330Z",
  "app": "0.33",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-13T18:13:53.081Z",
+ "since_last_sync": "2026-11-14T06:20:01.049Z",
  "events_since_last_sync": [
   {
-   "ts": "2026-11-13T18:18:47.454Z",
+   "ts": "2026-11-14T11:54:39.905Z",
    "type": "done",
-   "id": "mw4xrlqvathde",
-   "device": "טלפון",
-   "extId": "tt-6ae98ca648f474e51ba5a3f3",
-   "title": "לנסות לתקן מחשב קטן",
-   "list": null,
-   "date": "2026-11-13"
-  },
-  {
-   "ts": "2026-11-13T18:18:49.161Z",
-   "type": "done",
-   "id": "mw6c94crzvgfv",
+   "id": "mwauy7hh717bc",
    "device": "טלפון",
    "extId": null,
-   "title": "לקבוע טיפול עם באטריס",
+   "title": "המשך מחר",
    "list": null,
-   "date": "2026-11-13"
-  },
-  {
-   "ts": "2026-11-13T18:18:52.302Z",
-   "type": "done",
-   "id": "mwdgn7ee69r54",
-   "device": "טלפון",
-   "extId": "cl-garden-20261110-1",
-   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
-   "list": "גינה",
-   "date": "2026-11-13"
-  },
-  {
-   "ts": "2026-11-13T18:18:54.843Z",
-   "type": "done",
-   "id": "mw7p7i5pruk6r",
-   "device": "טלפון",
-   "extId": "cl-nyc-20261108-3",
-   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
-   "list": "נסיעות",
-   "date": "2026-11-13"
-  },
-  {
-   "ts": "2026-11-13T18:18:55.536Z",
-   "type": "done",
-   "id": "mw7p7i5ovefmo",
-   "device": "טלפון",
-   "extId": "cl-nyc-20261108-2",
-   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
-   "list": "נסיעות",
-   "date": "2026-11-13"
-  },
-  {
-   "ts": "2026-11-13T18:19:02.649Z",
-   "type": "done",
-   "id": "mw7p7i5ofnmiq",
-   "device": "טלפון",
-   "extId": "cl-nyc-20261108-1",
-   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
-   "list": "נסיעות",
-   "date": "2026-11-13"
+   "date": "2026-11-17"
   }
  ],
  "recent_events": [
@@ -923,6 +873,28 @@
    "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
    "list": "נסיעות",
    "date": "2026-11-13"
+  },
+  {
+   "ts": "2026-11-13T19:17:09.151Z",
+   "type": "snoozed",
+   "id": "mw4xrlqxwnm4u",
+   "device": "טלפון",
+   "extId": "tt-6ae616c08f08415c287f05c7",
+   "title": "לימון (מכל 1) – בדיקה חוזרת אחרי טיפול נים",
+   "list": null,
+   "date": "2026-11-20",
+   "from": "2026-11-13",
+   "to": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-14T11:54:39.905Z",
+   "type": "done",
+   "id": "mwauy7hh717bc",
+   "device": "טלפון",
+   "extId": null,
+   "title": "המשך מחר",
+   "list": null,
+   "date": "2026-11-17"
   }
  ],
  "open_tasks": [
@@ -930,27 +902,27 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-13",
+   "date": "2026-11-14",
    "list": null,
-   "rollovers": 8,
+   "rollovers": 9,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-13",
+   "date": "2026-11-14",
    "list": null,
-   "rollovers": 8,
+   "rollovers": 9,
    "overdue": false
   },
   {
    "id": "mw4zcw9f2gf9w",
    "extId": null,
    "title": "לבדוק לורד מפריז תוכניות בניין עיר",
-   "date": "2026-11-13",
+   "date": "2026-11-14",
    "list": null,
-   "rollovers": 7,
+   "rollovers": 8,
    "overdue": false
   },
   {
@@ -1089,20 +1061,29 @@
    "overdue": false
   },
   {
-   "id": "mwauy7hh717bc",
-   "extId": null,
-   "title": "המשך מחר",
-   "date": "2026-11-17",
-   "list": null,
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
    "id": "mwdgn7efrco6b",
    "extId": "cl-garden-20261110-2",
    "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
    "date": "2026-11-20",
    "list": "גינה",
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwgcwlysrd4fg",
+   "extId": "cl-fiji-20261114-1",
+   "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
+   "date": "2026-11-14",
+   "list": "נסיעות",
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwgcwlyxsj0hl",
+   "extId": "cl-fiji-20261114-2",
+   "title": "לשלם ל-NAI'A את היתרה, 5,085$ – עד 17.1.2027",
+   "date": "2027-01-03",
+   "list": "נסיעות",
    "rollovers": 0,
    "overdue": false
   }
@@ -1189,6 +1170,14 @@
    "list": null
   },
   {
+   "id": "mwauy7hh717bc",
+   "extId": null,
+   "title": "המשך מחר",
+   "status": "done",
+   "doneAt": "2026-11-14T11:54:34.897Z",
+   "list": null
+  },
+  {
    "id": "mwck9o4k1gmg8",
    "extId": null,
    "title": "לבדוק האם נדרש לפתוח את ההשקייה",
@@ -1222,7 +1211,7 @@
   }
  ],
  "stats": {
-  "open": 20,
+  "open": 21,
   "overdue": 0,
   "stuck": 3,
   "lists": [
@@ -1236,7 +1225,7 @@
    },
    {
     "name": "נסיעות",
-    "open": 6
+    "open": 8
    },
    {
     "name": "טיפולים",
