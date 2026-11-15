@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T14:20:00+02:00",
+ "generated": "2026-11-15T19:52:25+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -224,9 +224,33 @@
    "list": "trips",
    "source": "claude",
    "note": "תזכורת ב-3.1.2027. מועד אחרון לתשלום: 17.1.2027."
+  },
+  {
+   "id": "gm-1a1df40b3e61b7ee",
+   "title": "משלוח FedEx מהונג קונג – לבחור איסוף עצמי מנקודת חלוקה או להמתין לשחרור ממכס",
+   "date": "2026-11-15",
+   "source": "delivery",
+   "note": "מקור: FedEx Israel, 15.11.2026.",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1881928548439144430|msg-f:1881928548439144430"
+  },
+  {
+   "id": "gm-1a1de2dda32d2a60",
+   "title": "לעדכן אמצעי תשלום ב-Spotify Premium Duo (התשלום נכשל)",
+   "date": "2026-11-15",
+   "source": "email",
+   "note": "מקור: Spotify, 15.11.2026.",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1881909660864031328|msg-f:1881909660864031328"
   }
  ],
  "calendar": [
+  {
+   "id": "cal-cgo62opg6dim8b9h64r3ib9kclhjcbb174r34bb6coq3ad1oc4r3icb66s",
+   "date": "2026-11-15",
+   "title": "⏰ שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "start": "04:21",
+   "end": "05:21",
+   "location": null
+  },
   {
    "id": "cal-25cviemqqs20m3venhj5kof0ss_20261115T061500Z",
    "date": "2026-11-15",
@@ -250,14 +274,6 @@
    "start": "11:48",
    "end": "12:18",
    "location": "הפטל 2, יקנעם עילית"
-  },
-  {
-   "id": "cal-ckq62d1p6cr3ib9l68s3cb9kccojeb9o74r3cb9kcpi34d34cpimcc1o70",
-   "date": "2026-11-15",
-   "title": "תור לרופאת שיניים",
-   "start": "19:00",
-   "end": "20:00",
-   "location": null
   },
   {
    "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261116T070500Z",
