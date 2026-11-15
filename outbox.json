@@ -1,26 +1,96 @@
 {
- "generated": "2026-11-15T09:44:34.632Z",
- "app": "0.33",
+ "generated": "2026-11-15T18:21:48.509Z",
+ "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-14T12:10:13.794Z",
+ "since_last_sync": "2026-11-15T09:44:39.502Z",
  "events_since_last_sync": [
   {
-   "ts": "2026-11-14T21:53:47.475Z",
-   "type": "done",
-   "id": "mwgcwlysrd4fg",
-   "device": "טלפון",
-   "extId": "cl-fiji-20261114-1",
-   "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
-   "list": "נסיעות",
-   "date": "2026-11-14"
-  },
-  {
-   "ts": "2026-11-15T07:13:46.109Z",
-   "type": "added",
+   "ts": "2026-11-15T09:46:38.130Z",
+   "type": "closed",
    "id": "mwhi0hvfjwd5a",
    "device": "טלפון",
    "extId": null,
    "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T10:37:59.553Z",
+   "type": "done",
+   "id": "mw4xrlqxwnm4u",
+   "device": "טלפון",
+   "extId": "tt-6ae616c08f08415c287f05c7",
+   "title": "לימון (מכל 1) – בדיקה חוזרת אחרי טיפול נים",
+   "list": null,
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-15T10:38:03.493Z",
+   "type": "done",
+   "id": "mwav1mmvi26s6",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק לימון לאחר ריסוס",
+   "list": null,
+   "date": "2026-11-17"
+  },
+  {
+   "ts": "2026-11-15T12:50:03.463Z",
+   "type": "added",
+   "id": "mwhu0ythm12dw",
+   "device": "טלפון",
+   "extId": null,
+   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-15T15:59:36.948Z",
+   "type": "added",
+   "id": "mwi0sqnmcs07v",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להזמין תרופות",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T15:59:42.719Z",
+   "type": "dup",
+   "id": "mwi0sqnmcs07v",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להזמין תרופות להזמין תרופות",
+   "dupOf": "להזמין תרופות",
+   "how": "quick"
+  },
+  {
+   "ts": "2026-11-15T18:01:14.596Z",
+   "type": "done",
+   "id": "mwi54uxqat092",
+   "device": "טלפון",
+   "extId": "gm-1a1df40b3e61b7ee",
+   "title": "משלוח FedEx מהונג קונג – לבחור איסוף עצמי מנקודת חלוקה או להמתין לשחרור ממכס",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T18:01:23.490Z",
+   "type": "done",
+   "id": "mwi54uxv13stx",
+   "device": "טלפון",
+   "extId": "gm-1a1de2dda32d2a60",
+   "title": "לעדכן אמצעי תשלום ב-Spotify Premium Duo (התשלום נכשל)",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T18:09:06.778Z",
+   "type": "added",
+   "id": "mwi5f9w9c0m2k",
+   "device": "טלפון",
+   "extId": null,
+   "title": "קונפידור 350, שק אדמה, שתלי עלים",
    "list": null,
    "date": "2026-11-15"
   }
@@ -925,6 +995,96 @@
    "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
    "list": null,
    "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T09:46:38.130Z",
+   "type": "closed",
+   "id": "mwhi0hvfjwd5a",
+   "device": "טלפון",
+   "extId": null,
+   "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T10:37:59.553Z",
+   "type": "done",
+   "id": "mw4xrlqxwnm4u",
+   "device": "טלפון",
+   "extId": "tt-6ae616c08f08415c287f05c7",
+   "title": "לימון (מכל 1) – בדיקה חוזרת אחרי טיפול נים",
+   "list": null,
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-15T10:38:03.493Z",
+   "type": "done",
+   "id": "mwav1mmvi26s6",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק לימון לאחר ריסוס",
+   "list": null,
+   "date": "2026-11-17"
+  },
+  {
+   "ts": "2026-11-15T12:50:03.463Z",
+   "type": "added",
+   "id": "mwhu0ythm12dw",
+   "device": "טלפון",
+   "extId": null,
+   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-15T15:59:36.948Z",
+   "type": "added",
+   "id": "mwi0sqnmcs07v",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להזמין תרופות",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T15:59:42.719Z",
+   "type": "dup",
+   "id": "mwi0sqnmcs07v",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להזמין תרופות להזמין תרופות",
+   "dupOf": "להזמין תרופות",
+   "how": "quick"
+  },
+  {
+   "ts": "2026-11-15T18:01:14.596Z",
+   "type": "done",
+   "id": "mwi54uxqat092",
+   "device": "טלפון",
+   "extId": "gm-1a1df40b3e61b7ee",
+   "title": "משלוח FedEx מהונג קונג – לבחור איסוף עצמי מנקודת חלוקה או להמתין לשחרור ממכס",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T18:01:23.490Z",
+   "type": "done",
+   "id": "mwi54uxv13stx",
+   "device": "טלפון",
+   "extId": "gm-1a1de2dda32d2a60",
+   "title": "לעדכן אמצעי תשלום ב-Spotify Premium Duo (התשלום נכשל)",
+   "list": null,
+   "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T18:09:06.778Z",
+   "type": "added",
+   "id": "mwi5f9w9c0m2k",
+   "device": "טלפון",
+   "extId": null,
+   "title": "קונפידור 350, שק אדמה, שתלי עלים",
+   "list": null,
+   "date": "2026-11-15"
   }
  ],
  "open_tasks": [
@@ -1109,9 +1269,27 @@
    "overdue": false
   },
   {
-   "id": "mwhi0hvfjwd5a",
+   "id": "mwhu0ythm12dw",
    "extId": null,
-   "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
+   "date": "2026-11-18",
+   "list": null,
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwi0sqnmcs07v",
+   "extId": null,
+   "title": "לאסוף תרופות",
+   "date": "2026-11-15",
+   "list": null,
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwi5f9w9c0m2k",
+   "extId": null,
+   "title": "קונפידור 350, שק אדמה, שתלי עלים",
    "date": "2026-11-15",
    "list": null,
    "rollovers": 0,
@@ -1133,6 +1311,14 @@
    "title": "בדיקה לרחל",
    "status": "done",
    "doneAt": "2026-11-13T05:33:04.250Z",
+   "list": null
+  },
+  {
+   "id": "mw4xrlqxwnm4u",
+   "extId": "tt-6ae616c08f08415c287f05c7",
+   "title": "לימון (מכל 1) – בדיקה חוזרת אחרי טיפול נים",
+   "status": "done",
+   "doneAt": "2026-11-15T10:37:54.549Z",
    "list": null
   },
   {
@@ -1208,6 +1394,14 @@
    "list": null
   },
   {
+   "id": "mwav1mmvi26s6",
+   "extId": null,
+   "title": "לבדוק לימון לאחר ריסוס",
+   "status": "done",
+   "doneAt": "2026-11-15T10:37:58.486Z",
+   "list": null
+  },
+  {
    "id": "mwck9o4k1gmg8",
    "extId": null,
    "title": "לבדוק האם נדרש לפתוח את ההשקייה",
@@ -1246,10 +1440,34 @@
    "status": "done",
    "doneAt": "2026-11-14T21:53:42.468Z",
    "list": "נסיעות"
+  },
+  {
+   "id": "mwhi0hvfjwd5a",
+   "extId": null,
+   "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "status": "closed",
+   "doneAt": "2026-11-15T09:46:38.130Z",
+   "list": null
+  },
+  {
+   "id": "mwi54uxqat092",
+   "extId": "gm-1a1df40b3e61b7ee",
+   "title": "משלוח FedEx מהונג קונג – לבחור איסוף עצמי מנקודת חלוקה או להמתין לשחרור ממכס",
+   "status": "done",
+   "doneAt": "2026-11-15T18:01:09.594Z",
+   "list": null
+  },
+  {
+   "id": "mwi54uxv13stx",
+   "extId": "gm-1a1de2dda32d2a60",
+   "title": "לעדכן אמצעי תשלום ב-Spotify Premium Duo (התשלום נכשל)",
+   "status": "done",
+   "doneAt": "2026-11-15T18:01:18.484Z",
+   "list": null
   }
  ],
  "stats": {
-  "open": 21,
+  "open": 23,
   "overdue": 0,
   "stuck": 3,
   "lists": [
