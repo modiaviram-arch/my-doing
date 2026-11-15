@@ -223,7 +223,6 @@ hr{border:0;border-top:1px solid var(--line);margin:12px 0}
   <main>
     <section id="v-today" class="view on nc"></section>
     <section id="v-lists" class="view nc"></section>
-    <section id="v-log" class="view nc"></section>
     <section id="v-more" class="view"></section>
     <section id="v-search" class="view"></section>
   </main>
@@ -231,7 +230,6 @@ hr{border:0;border-top:1px solid var(--line);margin:12px 0}
   <nav class="nav">
     <button data-v="today" class="on"><span>☀️</span>היום</button>
     <button data-v="lists"><span>📋</span>רשימות</button>
-    <button data-v="log"><span>📖</span>יומן</button>
     <button data-v="more"><span>⚙️</span>עוד</button>
   </nav>
 </div>
@@ -634,7 +632,8 @@ async function pullInbox(){
 let view='today';let openListId=null; // 0.22: the list currently expanded in the lists view — quick add goes there
 function quickTargetList(){return (view==='lists'&&openListId&&lists.find(l=>l.id===openListId))||null;}
 function quickTarget(){const l=quickTargetList();quick.placeholder=l?'הוספה לרשימת '+l.name+'…':'הוספה מהירה…';if(!quick.value.trim())hint.textContent=l?'← נכנס לרשימת '+l.name:'';}
-function show(v){if(v==='more'&&view!=='more')moreSub=null;view=v;document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));render();quickTarget();}
+function show(v){if(v==='log'){show('more');goSub('log');return;} /* 0.34: the journal lives under עוד */
+  if(v==='more'&&view!=='more')moreSub=null;view=v;document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));render();quickTarget();}
 document.querySelectorAll('.nav button').forEach(b=>b.onclick=()=>{if(searchQ){searchQ='';searchIn.value='';searchRow.classList.remove('on');}show(b.dataset.v);});
 
 function placeBtns(it){if(it.status!=='open'||it.type!=='task')return '';const notice=it.source==='share';if(!it.addr&&!it.phone&&!notice)return '';let h='<div class="btns">';
@@ -844,7 +843,8 @@ function logCard(it){
       <div class="m"><span class="pill" dir="ltr">${new Date(it.doneAt||it.updatedAt).toLocaleTimeString('he-IL',{hour:'2-digit',minute:'2-digit'})}</span><span class="st ${closed?'closed':'ok'}">${closed?'נסגר — לא נדרש':'בוצע'}</span>${l?'<span>'+(LIST_ICON[l.name]||'📋')+' '+esc(l.name)+'</span>':''}</div></div>
     <button class="more" data-act="logMenu" aria-label="פעולות">⋮</button></div>`;
 }
-function renderLog(){
+/* 0.34: the journal is no longer a tab — it is a sub-screen of עוד (moreSub==='log') */
+function logHTML(){
   const done=items.filter(i=>(i.status==='done'||i.status==='closed')&&!pendingDone.has(i.id)).sort((a,b)=>(b.doneAt||0)-(a.doneAt||0));
   const T=today(),Y=addDays(T,-1);
   let h='';
@@ -854,8 +854,7 @@ function renderLog(){
   for(const [d,arr] of byDay){const key='lg_'+d;if(todayGroups[key]===undefined)todayGroups[key]=(d===T||d===Y);
     const label=d===T?'היום':d===Y?'אתמול':fmtDate(d);
     h+=grp(key,label+'&nbsp;',arr.map(logCard).join(''),arr.length,'sub');}
-  const v=document.getElementById('v-log');v.innerHTML=h;
-  v.querySelectorAll('details.grp').forEach(d=>d.addEventListener('toggle',()=>{todayGroups[d.dataset.g]=d.open;try{localStorage.setItem('todayGroups',JSON.stringify(todayGroups));}catch(e){}}));
+  return '<div class="nc">'+h+'</div>';
 }
 /* 0.27: log item — secondary actions in ⋮ and in the opened card; the ✓ itself does nothing (no accidental reopen) */
 async function reopenTask(it){
@@ -886,13 +885,14 @@ function openLogCard(it){
     <div class="btns"><button class="btn p" data-la="reopen">↩ החזר למשימות</button><button class="btn" data-la="followup">↪ משימת המשך</button><button class="btn" data-la="edit">✏️ ערוך</button><button class="btn" data-la="close">סגור</button></div>`);
   sheet.querySelectorAll('[data-la]').forEach(b=>b.onclick=async()=>{const k=b.dataset.la;closeSheet();if(k==='reopen')await reopenTask(it);else if(k==='followup')openFollowUp(it);else if(k==='edit')setTimeout(()=>openEdit(it),200);});
 }
-let moreSub=null; // null = menu · 'contacts' | 'backup' | 'settings' | 'about' | 'trash'
+let moreSub=null; // null = menu · 'contacts' | 'backup' | 'settings' | 'about' | 'log' | 'trash'
 /* 0.30: entering a sub-screen pushes a history entry, so the phone's Back returns one screen instead of closing the app */
 function goSub(k){moreSub=k;try{history.pushState({sub:k},'');}catch(e){}render();window.scrollTo(0,0);}
 function goBack(){if(history.state&&history.state.sub){history.back();}else{moreSub=null;render();}}
 window.addEventListener('popstate',()=>{if(moreSub){moreSub=null;render();}});
 const settingsOpen=(()=>{try{return Object.assign({gen:true,ai:false,gh:false,dev:false,adv:false},JSON.parse(localStorage.getItem('settingsOpen')||'{}'));}catch(e){return {gen:true,ai:false,gh:false,dev:false,adv:false};}})();
 function openWhatsNew(){openSheet(`<h3>✨ מה חדש</h3><div class="small" style="line-height:1.6">
+<b>0.34</b> — לשונית "יומן" הוסרה מהסרגל התחתון; היומן (מה בוצע) נמצא עכשיו ב"עוד", ליד הסל.<br>
 <b>0.31</b> — הודעות אחידות (ירוק ✓ / אדום ⚠ + "נסה שוב"); "בטל" לדחייה, העברה ושחזור; הצעת כפילות בתוך הטופס; טופס לא נסגר כששמירה נכשלת; אחרי חזרת רשת נשלח לבד; פעולות סנכרון בתור; כשל קליטה מ-Claude מדווח בשורת המצב.<br>
 <b>0.30</b> — "עוד" בחמישה מסכים + אודות; "חזרה" מסך אחד (גם בכפתור של הטלפון); בלי דוגמאות בשדות.<br>
 <b>0.29</b> — אנשי קשר והגדרות בשפה החדשה; קובץ vCard.<br>
@@ -904,7 +904,10 @@ function openWhatsNew(){openSheet(`<h3>✨ מה חדש</h3><div class="small" st
 function moreHead(title){return `<div class="row" style="align-items:center;gap:8px;margin:4px 0 6px"><button class="btn" data-more="back" style="flex:0 0 auto">‹ חזרה</button><h2 style="margin:0;flex:1">${title}</h2></div>`;}
 function renderMore(){
   let h='';
-  if(moreSub==='trash'){
+  if(moreSub==='log'){
+    h+=moreHead('📖 יומן — מה בוצע');
+    h+=logHTML();
+  }else if(moreSub==='trash'){
     h+=moreHead('🗑️ סל (7 ימים)');
   const trash=items.filter(i=>i.status==='trash').sort((a,b)=>(b.deletedAt||0)-(a.deletedAt||0));
     h+=`<div class="small" style="padding:0 8px 6px">${trash.length} פריטים</div>`;
@@ -978,16 +981,19 @@ function renderMore(){
     <div class="card" style="display:block"><div class="small" style="line-height:1.5">מכשיר: <b>${esc(device?device.name:'')}</b> · ${items.filter(i=>i.status!=='trash').length} פריטים · קליטה אחרונה מ-Claude: <span id="lastPull">—</span><br>מאגר: ${esc(GH.owner)}/${esc(GH.repo)} · אפיון: My_Doing_Spec (במאגר)<br>פותח עם Claude · 2026</div></div>`;
   }else{
     const trashN=items.filter(i=>i.status==='trash').length;
+    const logT=today(),logN=items.filter(i=>(i.status==='done'||i.status==='closed')).length,logToday=items.filter(i=>(i.status==='done'||i.status==='closed')&&i.doneAt&&ymd(new Date(i.doneAt))===logT).length;
     const row=(ic,t,sub,attrs)=>`<button class="mrow big" ${attrs}><span class="mic">${ic}</span><span class="mt"><b>${t}</b><small>${sub}</small></span><span class="chev">‹</span></button>`;
     h+=`<div class="card stat ok" id="statCard" style="margin-bottom:10px"><div class="n">…</div><div class="m">…</div><div class="btns" id="retryRow" style="margin-top:8px;display:none"><button class="btn p" id="retryBtn">נסה שוב</button></div></div>
     ${row('📇','אנשי קשר',(contacts.length?contacts.length+' אנשי קשר':'עדיין אין')+' · סיכום היום','data-more="contacts"')}
     ${row('☁️','גיבוי וסנכרון','שלח ל-Claude · מכשירים · שחזור · טוקן וסיסמה','data-more="backup"')}
     ${row('⚙️','הגדרות','שבת · זיהוי הודעות · Claude · ייצוא וייבוא','data-more="settings"')}
     ${row('ℹ️','אודות','גרסה '+APP_VER+' · בדיקת עדכון · מה חדש · יומן שגיאות','data-more="about"')}
+    ${row('📖','יומן — מה בוצע',logN?logN+' פריטים · '+logToday+' היום':'ריק','data-more="log"')}
     ${row('🗑️','סל',trashN?trashN+' פריטים · מחיקה סופית אחרי 7 ימים':'ריק','data-more="trash"')}
     <div class="small" style="padding:8px 8px 0">My Doing · גרסה ${APP_VER} · מכשיר: ${esc(device?device.name:'')}</div>`;
   }
   document.getElementById('v-more').innerHTML=h;updateStatus();
+  document.querySelectorAll('#v-more details.grp:not(.set)').forEach(d=>d.addEventListener('toggle',()=>{todayGroups[d.dataset.g]=d.open;try{localStorage.setItem('todayGroups',JSON.stringify(todayGroups));}catch(e){}}));
   document.querySelectorAll('#v-more details.set').forEach(d=>d.addEventListener('toggle',()=>{settingsOpen[d.dataset.s]=d.open;try{localStorage.setItem('settingsOpen',JSON.stringify(settingsOpen));}catch(e){}}));
   DB.kget('calendarAt').then(v=>{const e=document.getElementById('lastPull');if(e&&v)e.textContent=new Date(v).toLocaleString('he-IL');});fillSyncLine();fillDevLine();window.scrollTo(0,0);
 }
@@ -1012,7 +1018,7 @@ async function render(){
   if(searchQ.trim()){document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id==='v-search'));renderSearch();updateBadge();return;}
   document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id==='v-'+view));
   updateStatus();
-  try{if(view==='today')await renderToday();else if(view==='lists')renderLists();else if(view==='log')renderLog();else renderMore();}
+  try{if(view==='today')await renderToday();else if(view==='lists')renderLists();else renderMore();}
   catch(e){const msg=(e&&e.message)||String(e);try{logErr('render '+view+': '+msg);}catch(_){}
     if(view==='more')document.getElementById('v-more').innerHTML=`<h2>⚠️ שגיאה בטעינת המסך</h2><div class="card" style="display:block"><div class="small" dir="auto">${esc(msg)}</div><div class="btns" style="margin-top:8px"><button class="btn p" id="updBtn">🔄 בדוק עדכון</button><button class="btn" id="errBtn">🐞 יומן שגיאות</button><button class="btn" id="exportBtn">ייצוא לקובץ</button></div></div><h2>ℹ️ אודות</h2><div class="small" style="padding:0 8px">My Doing · גרסה ${APP_VER}</div>`;
     else toast('שגיאה בתצוגה: '+msg.slice(0,80));}
@@ -1671,7 +1677,7 @@ function handleShare(){
 }
 
 /* ===================== Update check ===================== */
-const APP_VER='0.33';
+const APP_VER='0.34';
 async function checkUpdate(manual){
   try{const r=await fetch('version.txt?ts='+Date.now(),{cache:'no-store'});if(!r.ok)return;const v=(await r.text()).trim();
     if(/^\d+(\.\d+)*$/.test(v)&&v!==APP_VER){toast('יש גרסה חדשה ('+v+')','עדכן עכשיו',async()=>{if('serviceWorker' in navigator){const regs=await navigator.serviceWorker.getRegistrations();for(const g of regs)await g.unregister();}if(window.caches){for(const k of await caches.keys())await caches.delete(k);}location.replace(location.pathname+'?u='+Date.now());});}
