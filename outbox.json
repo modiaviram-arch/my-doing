@@ -1,18 +1,28 @@
 {
- "generated": "2026-11-14T12:10:06.330Z",
+ "generated": "2026-11-15T09:44:34.632Z",
  "app": "0.33",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-14T06:20:01.049Z",
+ "since_last_sync": "2026-11-14T12:10:13.794Z",
  "events_since_last_sync": [
   {
-   "ts": "2026-11-14T11:54:39.905Z",
+   "ts": "2026-11-14T21:53:47.475Z",
    "type": "done",
-   "id": "mwauy7hh717bc",
+   "id": "mwgcwlysrd4fg",
+   "device": "טלפון",
+   "extId": "cl-fiji-20261114-1",
+   "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
+   "list": "נסיעות",
+   "date": "2026-11-14"
+  },
+  {
+   "ts": "2026-11-15T07:13:46.109Z",
+   "type": "added",
+   "id": "mwhi0hvfjwd5a",
    "device": "טלפון",
    "extId": null,
-   "title": "המשך מחר",
+   "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
    "list": null,
-   "date": "2026-11-17"
+   "date": "2026-11-15"
   }
  ],
  "recent_events": [
@@ -895,6 +905,26 @@
    "title": "המשך מחר",
    "list": null,
    "date": "2026-11-17"
+  },
+  {
+   "ts": "2026-11-14T21:53:47.475Z",
+   "type": "done",
+   "id": "mwgcwlysrd4fg",
+   "device": "טלפון",
+   "extId": "cl-fiji-20261114-1",
+   "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
+   "list": "נסיעות",
+   "date": "2026-11-14"
+  },
+  {
+   "ts": "2026-11-15T07:13:46.109Z",
+   "type": "added",
+   "id": "mwhi0hvfjwd5a",
+   "device": "טלפון",
+   "extId": null,
+   "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "list": null,
+   "date": "2026-11-15"
   }
  ],
  "open_tasks": [
@@ -902,27 +932,27 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "list": null,
-   "rollovers": 9,
+   "rollovers": 10,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "list": null,
-   "rollovers": 9,
+   "rollovers": 10,
    "overdue": false
   },
   {
    "id": "mw4zcw9f2gf9w",
    "extId": null,
    "title": "לבדוק לורד מפריז תוכניות בניין עיר",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "list": null,
-   "rollovers": 8,
+   "rollovers": 9,
    "overdue": false
   },
   {
@@ -1070,20 +1100,20 @@
    "overdue": false
   },
   {
-   "id": "mwgcwlysrd4fg",
-   "extId": "cl-fiji-20261114-1",
-   "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
-   "date": "2026-11-14",
-   "list": "נסיעות",
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
    "id": "mwgcwlyxsj0hl",
    "extId": "cl-fiji-20261114-2",
    "title": "לשלם ל-NAI'A את היתרה, 5,085$ – עד 17.1.2027",
    "date": "2027-01-03",
    "list": "נסיעות",
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwhi0hvfjwd5a",
+   "extId": null,
+   "title": "שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "date": "2026-11-15",
+   "list": null,
    "rollovers": 0,
    "overdue": false
   }
@@ -1208,6 +1238,14 @@
    "status": "done",
    "doneAt": "2026-11-13T18:18:47.299Z",
    "list": "גינה"
+  },
+  {
+   "id": "mwgcwlysrd4fg",
+   "extId": "cl-fiji-20261114-1",
+   "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
+   "status": "done",
+   "doneAt": "2026-11-14T21:53:42.468Z",
+   "list": "נסיעות"
   }
  ],
  "stats": {
@@ -1225,7 +1263,7 @@
    },
    {
     "name": "נסיעות",
-    "open": 8
+    "open": 7
    },
    {
     "name": "טיפולים",
