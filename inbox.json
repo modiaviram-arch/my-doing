@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:48:00+02:00",
+ "generated": "2026-11-16T06:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -251,38 +251,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-cgo62opg6dim8b9h64r3ib9kclhjcbb174r34bb6coq3ad1oc4r3icb66s",
-   "date": "2026-11-15",
-   "title": "⏰ שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
-   "start": "04:21",
-   "end": "05:21",
-   "location": null
-  },
-  {
-   "id": "cal-25cviemqqs20m3venhj5kof0ss_20261115T061500Z",
-   "date": "2026-11-15",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-h7tqut1c5au7cj8qvkqo4u2rh8_20261115T094000Z",
-   "date": "2026-11-15",
-   "title": "יואב – סיום",
-   "start": "11:40",
-   "end": "11:41",
-   "location": null
-  },
-  {
-   "id": "cal-71im8p9m6grj4bb56comcb9k60omab9pc4qj2b9lcdhj2o9g75gm8d9gcc",
-   "date": "2026-11-15",
-   "title": "תור לד\"ר סודרסקי דורון",
-   "start": "11:48",
-   "end": "12:18",
-   "location": "הפטל 2, יקנעם עילית"
-  },
-  {
    "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261116T070500Z",
    "date": "2026-11-16",
    "title": "יואב – התחלה",
@@ -472,6 +440,38 @@
    "title": "יואב – סיום",
    "start": "13:25",
    "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-25cviemqqs20m3venhj5kof0ss_20261129T061500Z",
+   "date": "2026-11-29",
+   "title": "יואב – התחלה",
+   "start": "08:15",
+   "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-h7tqut1c5au7cj8qvkqo4u2rh8_20261129T094000Z",
+   "date": "2026-11-29",
+   "title": "יואב – סיום",
+   "start": "11:40",
+   "end": "11:41",
+   "location": null
+  },
+  {
+   "id": "cal-c9i38e9mchhmcb9hc8p68b9k6thj0bb2c9gjabb46li34cr270pmcdhp6s",
+   "date": "2026-11-29",
+   "title": "רופאת שיניים",
+   "start": "19:00",
+   "end": "20:00",
+   "location": null
+  },
+  {
+   "id": "cal-6m325cift03i3ue4orl5qr0di4",
+   "date": "2026-11-29",
+   "title": "חזרה מניו יורק 29.12 DL 234",
+   "start": "23:45",
+   "end": "17:30",
    "location": null
   }
  ]
