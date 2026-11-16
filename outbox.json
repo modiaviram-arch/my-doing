@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T18:21:48.509Z",
+ "generated": "2026-11-16T06:41:55.177Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
  "since_last_sync": "2026-11-15T09:44:39.502Z",
@@ -93,6 +93,16 @@
    "title": "קונפידור 350, שק אדמה, שתלי עלים",
    "list": null,
    "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T22:26:14.838Z",
+   "type": "added",
+   "id": "mwiely9hrnf0n",
+   "device": "טלפון",
+   "extId": null,
+   "title": "סידור הגלריה של התמונות",
+   "list": null,
+   "date": "2026-11-16"
   }
  ],
  "recent_events": [
@@ -1085,6 +1095,16 @@
    "title": "קונפידור 350, שק אדמה, שתלי עלים",
    "list": null,
    "date": "2026-11-15"
+  },
+  {
+   "ts": "2026-11-15T22:26:14.838Z",
+   "type": "added",
+   "id": "mwiely9hrnf0n",
+   "device": "טלפון",
+   "extId": null,
+   "title": "סידור הגלריה של התמונות",
+   "list": null,
+   "date": "2026-11-16"
   }
  ],
  "open_tasks": [
@@ -1092,27 +1112,27 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "list": null,
-   "rollovers": 10,
+   "rollovers": 11,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "list": null,
-   "rollovers": 10,
+   "rollovers": 11,
    "overdue": false
   },
   {
    "id": "mw4zcw9f2gf9w",
    "extId": null,
    "title": "לבדוק לורד מפריז תוכניות בניין עיר",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "list": null,
-   "rollovers": 9,
+   "rollovers": 10,
    "overdue": false
   },
   {
@@ -1281,16 +1301,34 @@
    "id": "mwi0sqnmcs07v",
    "extId": null,
    "title": "לאסוף תרופות",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "list": null,
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
    "id": "mwi5f9w9c0m2k",
    "extId": null,
-   "title": "קונפידור 350, שק אדמה, שתלי עלים",
-   "date": "2026-11-15",
+   "title": "קונפידור 350, שק אדמה, שתילי עלים: תרד טורקי, חסות",
+   "date": "2026-11-16",
+   "list": null,
+   "rollovers": 1,
+   "overdue": false
+  },
+  {
+   "id": "mwib9g8rejxig",
+   "extId": "cl-shop-20261115-pashtidot",
+   "title": "קניות לשתי פשטידות העלים",
+   "date": "2026-11-16",
+   "list": null,
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwiely9hrnf0n",
+   "extId": null,
+   "title": "סידור הגלריה של התמונות",
+   "date": "2026-11-16",
    "list": null,
    "rollovers": 0,
    "overdue": false
@@ -1467,7 +1505,7 @@
   }
  ],
  "stats": {
-  "open": 23,
+  "open": 25,
   "overdue": 0,
   "stuck": 3,
   "lists": [
