@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T06:55:00+02:00",
+ "generated": "2026-11-16T19:52:28+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -320,6 +320,14 @@
    "title": "דלית",
    "start": "10:00",
    "end": "11:00",
+   "location": null
+  },
+  {
+   "id": "cal-68p3ip32cgom4bb6c5j30b9kcks3eb9pcpi3abb3clh62dhh6hh3ae1h64",
+   "date": "2026-11-19",
+   "title": "חיסונים זואי",
+   "start": "12:00",
+   "end": "13:00",
    "location": null
   },
   {
