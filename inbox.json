@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T19:52:28+02:00",
+ "generated": "2026-11-17T06:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -251,22 +251,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261116T070500Z",
-   "date": "2026-11-16",
-   "title": "יואב – התחלה",
-   "start": "09:05",
-   "end": "09:06",
-   "location": null
-  },
-  {
-   "id": "cal-80r9f01nkgnn0fl1n1pa22nf2o_20261116T112500Z",
-   "date": "2026-11-16",
-   "title": "יואב – סיום",
-   "start": "13:25",
-   "end": "13:26",
-   "location": null
-  },
-  {
    "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261117T053000Z",
    "date": "2026-11-17",
    "title": "יואב – התחלה",
@@ -352,6 +336,14 @@
    "title": "יואב – סיום",
    "start": "13:25",
    "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-65im8chm75h30b9nckojab9kc8qm4bb2ckqjib9hckpj8eb475gjgopgcg",
+   "date": "2026-11-21",
+   "title": "סרט",
+   "start": "11:00",
+   "end": "12:00",
    "location": null
   },
   {
@@ -480,6 +472,22 @@
    "title": "חזרה מניו יורק 29.12 DL 234",
    "start": "23:45",
    "end": "17:30",
+   "location": null
+  },
+  {
+   "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261130T070500Z",
+   "date": "2026-11-30",
+   "title": "יואב – התחלה",
+   "start": "09:05",
+   "end": "09:06",
+   "location": null
+  },
+  {
+   "id": "cal-80r9f01nkgnn0fl1n1pa22nf2o_20261130T112500Z",
+   "date": "2026-11-30",
+   "title": "יואב – סיום",
+   "start": "13:25",
+   "end": "13:26",
    "location": null
   }
  ]
