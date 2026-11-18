@@ -1,40 +1,9 @@
 {
- "generated": "2026-11-17T05:24:00.107Z",
+ "generated": "2026-11-18T09:00:50.551Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-16T06:42:00.163Z",
- "events_since_last_sync": [
-  {
-   "ts": "2026-11-16T09:08:21.220Z",
-   "type": "done",
-   "id": "mwi5f9w9c0m2k",
-   "device": "טלפון",
-   "extId": null,
-   "title": "קונפידור 350, שק אדמה, שתילי עלים: תרד טורקי, חסות",
-   "list": null,
-   "date": "2026-11-16"
-  },
-  {
-   "ts": "2026-11-16T15:25:44.480Z",
-   "type": "done",
-   "id": "mwib9g8rejxig",
-   "device": "טלפון",
-   "extId": "cl-shop-20261115-pashtidot",
-   "title": "קניות לשתי פשטידות העלים",
-   "list": null,
-   "date": "2026-11-16"
-  },
-  {
-   "ts": "2026-11-16T15:40:34.714Z",
-   "type": "done",
-   "id": "mwiely9hrnf0n",
-   "device": "טלפון",
-   "extId": null,
-   "title": "סידור הגלריה של התמונות",
-   "list": null,
-   "date": "2026-11-16"
-  }
- ],
+ "since_last_sync": "2026-11-17T05:24:04.735Z",
+ "events_since_last_sync": [],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -1072,27 +1041,27 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "list": null,
-   "rollovers": 12,
+   "rollovers": 13,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "list": null,
-   "rollovers": 12,
+   "rollovers": 13,
    "overdue": false
   },
   {
    "id": "mw4zcw9f2gf9w",
    "extId": null,
    "title": "לבדוק לורד מפריז תוכניות בניין עיר",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "list": null,
-   "rollovers": 11,
+   "rollovers": 12,
    "overdue": false
   },
   {
@@ -1261,9 +1230,9 @@
    "id": "mwi0sqnmcs07v",
    "extId": null,
    "title": "לאסוף תרופות",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "list": null,
-   "rollovers": 2,
+   "rollovers": 3,
    "overdue": false
   }
  ],
@@ -1464,7 +1433,7 @@
  "stats": {
   "open": 22,
   "overdue": 0,
-  "stuck": 3,
+  "stuck": 4,
   "lists": [
    {
     "name": "רעיונות",
