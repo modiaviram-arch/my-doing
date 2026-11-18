@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T06:55:00+02:00",
+ "generated": "2026-11-18T19:52:12+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -247,6 +247,14 @@
    "date": "2026-11-16",
    "source": "claude",
    "note": "לקנות: 8 ביצים · 200 גרם פטה · גביע שמנת חמוצה (200 מ\"ל) · 200 גרם גבינה לבנה 9% או ריקוטה (רק אחת מהן) · 100 גרם גבינה צהובה מגוררת.\nלבדוק אם יש בבית: קמח (3 כפות) · בצל יבש 1 · אגוז מוסקט · שמן זית · כרישה 1 (או בצל ירוק מהגינה במקומה)."
+  },
+  {
+   "id": "gm-1a1ee6c32286438c",
+   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
+   "date": "2026-11-19",
+   "source": "delivery",
+   "note": "Parcel Home (Cainiao), 18.11.2026 – לאסוף תוך 2 ימי עסקים.",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882195420059681676"
   }
  ],
  "calendar": [
@@ -347,6 +355,14 @@
    "location": null
   },
   {
+   "id": "cal-6sp3ed9o69h66b9m71h6ab9k6li3gbb1ccojeb9h6os66dhp60r3ge316o",
+   "date": "2026-11-23",
+   "title": "ללכת לאסוף את הצ'ק של הדירה ממשרד העוד",
+   "start": "10:00",
+   "end": "11:00",
+   "location": null
+  },
+  {
    "id": "cal-80r9f01nkgnn0fl1n1pa22nf2o_20261123T112500Z",
    "date": "2026-11-23",
    "title": "יואב – סיום",
@@ -374,8 +390,8 @@
    "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261125T090000Z",
    "date": "2026-11-25",
    "title": "פלדנקרייז",
-   "start": "11:00",
-   "end": "12:00",
+   "start": "10:45",
+   "end": "11:45",
    "location": null
   },
   {
