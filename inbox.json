@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T06:55:00+02:00",
+ "generated": "2026-11-18T06:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -251,30 +251,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261117T053000Z",
-   "date": "2026-11-17",
-   "title": "יואב – התחלה",
-   "start": "07:30",
-   "end": "07:31",
-   "location": null
-  },
-  {
-   "id": "cal-61i68cph68pj4b9k6gr6ab9k6sqj8b9p6soj0b9o70qjaohgcphj4p32co_20261117T095500Z",
-   "date": "2026-11-17",
-   "title": "יואב – סיום",
-   "start": "11:55",
-   "end": "11:56",
-   "location": null
-  },
-  {
-   "id": "cal-74sjie366oq36bb3c8pj8b9k64sm8bb160r3gb9hc5h6cor571hj2p1kcc",
-   "date": "2026-11-17",
-   "title": "חתימה על קניית דירה קומה 8",
-   "start": "16:30",
-   "end": "17:30",
-   "location": "Derekh Yafo 21"
-  },
-  {
    "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261118T090000Z",
    "date": "2026-11-18",
    "title": "פלדנקרייז",
@@ -488,6 +464,22 @@
    "title": "יואב – סיום",
    "start": "13:25",
    "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261201T053000Z",
+   "date": "2026-12-01",
+   "title": "יואב – התחלה",
+   "start": "07:30",
+   "end": "07:31",
+   "location": null
+  },
+  {
+   "id": "cal-61i68cph68pj4b9k6gr6ab9k6sqj8b9p6soj0b9o70qjaohgcphj4p32co_20261201T095500Z",
+   "date": "2026-12-01",
+   "title": "יואב – סיום",
+   "start": "11:55",
+   "end": "11:56",
    "location": null
   }
  ]
