@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T06:55:00+02:00",
+ "generated": "2026-11-19T19:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -263,6 +263,14 @@
    "source": "email",
    "note": "מקור: Google Takeout, 18.11.2026.",
    "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882222248445952221"
+  },
+  {
+   "id": "gm-1a1f27fd87a0899b",
+   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
+   "date": "2026-11-20",
+   "source": "delivery",
+   "note": "מקור: FedEx Tracking, 19.11.2026.",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882267139119810971|msg-f:1882267139119810971"
   }
  ],
  "calendar": [
