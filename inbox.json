@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T19:52:12+02:00",
+ "generated": "2026-11-19T06:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -255,25 +255,17 @@
    "source": "delivery",
    "note": "Parcel Home (Cainiao), 18.11.2026 – לאסוף תוך 2 ימי עסקים.",
    "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882195420059681676"
+  },
+  {
+   "id": "gm-1a1eff299af540dd",
+   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
+   "date": "2026-11-25",
+   "source": "email",
+   "note": "מקור: Google Takeout, 18.11.2026.",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882222248445952221"
   }
  ],
  "calendar": [
-  {
-   "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261118T090000Z",
-   "date": "2026-11-18",
-   "title": "פלדנקרייז",
-   "start": "11:00",
-   "end": "12:00",
-   "location": null
-  },
-  {
-   "id": "cal-nqpefejns9mlj4jf4b9sc7ht6g_20261118T141000Z",
-   "date": "2026-11-18",
-   "title": "יואב – סיום",
-   "start": "16:10",
-   "end": "16:11",
-   "location": null
-  },
   {
    "id": "cal-e1t0nkhrt144jh22ufhnftb9cg_20261119T061500Z",
    "date": "2026-11-19",
@@ -320,6 +312,14 @@
    "title": "יואב – סיום",
    "start": "13:25",
    "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-gv55t9e2c1livmag832nmvp27g_20261120T145500Z",
+   "date": "2026-11-20",
+   "title": "להירשם לפלדנקרייז (ראשון 17:00) באפליקציית הקאנטרי",
+   "start": "16:55",
+   "end": "17:05",
    "location": null
   },
   {
@@ -435,6 +435,14 @@
    "location": null
   },
   {
+   "id": "cal-gv55t9e2c1livmag832nmvp27g_20261127T145500Z",
+   "date": "2026-11-27",
+   "title": "להירשם לפלדנקרייז (ראשון 17:00) באפליקציית הקאנטרי",
+   "start": "16:55",
+   "end": "17:05",
+   "location": null
+  },
+  {
    "id": "cal-25cviemqqs20m3venhj5kof0ss_20261129T061500Z",
    "date": "2026-11-29",
    "title": "יואב – התחלה",
@@ -496,6 +504,22 @@
    "title": "יואב – סיום",
    "start": "11:55",
    "end": "11:56",
+   "location": null
+  },
+  {
+   "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261202T090000Z",
+   "date": "2026-12-02",
+   "title": "פלדנקרייז",
+   "start": "11:00",
+   "end": "12:00",
+   "location": null
+  },
+  {
+   "id": "cal-nqpefejns9mlj4jf4b9sc7ht6g_20261202T141000Z",
+   "date": "2026-12-02",
+   "title": "יואב – סיום",
+   "start": "16:10",
+   "end": "16:11",
    "location": null
   }
  ]
