@@ -1,9 +1,100 @@
 {
- "generated": "2026-11-18T09:00:50.551Z",
+ "generated": "2026-11-19T05:42:15.982Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-17T05:24:04.735Z",
- "events_since_last_sync": [],
+ "since_last_sync": "2026-11-18T09:01:00.667Z",
+ "events_since_last_sync": [
+  {
+   "ts": "2026-11-18T16:30:40.259Z",
+   "type": "done",
+   "id": "mwhu0ythm12dw",
+   "device": "טלפון",
+   "extId": null,
+   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:42:46.255Z",
+   "type": "added",
+   "id": "mwmese2rkh422",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:43:20.694Z",
+   "type": "added",
+   "id": "mwmeszzleo9l2",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:43:49.631Z",
+   "type": "added",
+   "id": "mwmetr53yhfv8",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:44:26.594Z",
+   "type": "added",
+   "id": "mwmev3s19e7uq",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:45:24.804Z",
+   "type": "added",
+   "id": "mwmewcozfkgr0",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-19T04:55:06.986Z",
+   "type": "done",
+   "id": "mw4zcw9f2gf9w",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק לורד מפריז תוכניות בניין עיר",
+   "list": null,
+   "date": "2026-11-19"
+  },
+  {
+   "ts": "2026-11-19T04:55:15.057Z",
+   "type": "done",
+   "id": "mwmev3s19e7uq",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
+   "list": null,
+   "date": "2026-11-19"
+  },
+  {
+   "ts": "2026-11-19T04:55:44.798Z",
+   "type": "done",
+   "id": "mwmetr53yhfv8",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
+   "list": null,
+   "date": "2026-11-19"
+  }
+ ],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -1034,6 +1125,96 @@
    "title": "סידור הגלריה של התמונות",
    "list": null,
    "date": "2026-11-16"
+  },
+  {
+   "ts": "2026-11-18T16:30:40.259Z",
+   "type": "done",
+   "id": "mwhu0ythm12dw",
+   "device": "טלפון",
+   "extId": null,
+   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:42:46.255Z",
+   "type": "added",
+   "id": "mwmese2rkh422",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:43:20.694Z",
+   "type": "added",
+   "id": "mwmeszzleo9l2",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:43:49.631Z",
+   "type": "added",
+   "id": "mwmetr53yhfv8",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:44:26.594Z",
+   "type": "added",
+   "id": "mwmev3s19e7uq",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-18T17:45:24.804Z",
+   "type": "added",
+   "id": "mwmewcozfkgr0",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
+   "list": null,
+   "date": "2026-11-18"
+  },
+  {
+   "ts": "2026-11-19T04:55:06.986Z",
+   "type": "done",
+   "id": "mw4zcw9f2gf9w",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק לורד מפריז תוכניות בניין עיר",
+   "list": null,
+   "date": "2026-11-19"
+  },
+  {
+   "ts": "2026-11-19T04:55:15.057Z",
+   "type": "done",
+   "id": "mwmev3s19e7uq",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
+   "list": null,
+   "date": "2026-11-19"
+  },
+  {
+   "ts": "2026-11-19T04:55:44.798Z",
+   "type": "done",
+   "id": "mwmetr53yhfv8",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
+   "list": null,
+   "date": "2026-11-19"
   }
  ],
  "open_tasks": [
@@ -1041,27 +1222,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "list": null,
-   "rollovers": 13,
+   "rollovers": 14,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "list": null,
-   "rollovers": 13,
-   "overdue": false
-  },
-  {
-   "id": "mw4zcw9f2gf9w",
-   "extId": null,
-   "title": "לבדוק לורד מפריז תוכניות בניין עיר",
-   "date": "2026-11-18",
-   "list": null,
-   "rollovers": 12,
+   "rollovers": 14,
    "overdue": false
   },
   {
@@ -1218,21 +1390,57 @@
    "overdue": false
   },
   {
-   "id": "mwhu0ythm12dw",
+   "id": "mwi0sqnmcs07v",
    "extId": null,
-   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
-   "date": "2026-11-18",
+   "title": "לאסוף תרופות",
+   "date": "2026-11-19",
+   "list": null,
+   "rollovers": 4,
+   "overdue": false
+  },
+  {
+   "id": "mwmese2rkh422",
+   "extId": null,
+   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
+   "date": "2026-11-19",
+   "list": null,
+   "rollovers": 1,
+   "overdue": false
+  },
+  {
+   "id": "mwmeszzleo9l2",
+   "extId": null,
+   "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
+   "date": "2026-11-19",
+   "list": null,
+   "rollovers": 1,
+   "overdue": false
+  },
+  {
+   "id": "mwmewcozfkgr0",
+   "extId": null,
+   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
+   "date": "2026-11-19",
+   "list": null,
+   "rollovers": 1,
+   "overdue": false
+  },
+  {
+   "id": "mwmffglhxv0b5",
+   "extId": "gm-1a1ee6c32286438c",
+   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
+   "date": "2026-11-19",
    "list": null,
    "rollovers": 0,
    "overdue": false
   },
   {
-   "id": "mwi0sqnmcs07v",
-   "extId": null,
-   "title": "לאסוף תרופות",
-   "date": "2026-11-18",
+   "id": "mwn2t67sgy3nn",
+   "extId": "gm-1a1eff299af540dd",
+   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
+   "date": "2026-11-25",
    "list": null,
-   "rollovers": 3,
+   "rollovers": 0,
    "overdue": false
   }
  ],
@@ -1259,6 +1467,14 @@
    "title": "לימון (מכל 1) – בדיקה חוזרת אחרי טיפול נים",
    "status": "done",
    "doneAt": "2026-11-15T10:37:54.549Z",
+   "list": null
+  },
+  {
+   "id": "mw4zcw9f2gf9w",
+   "extId": null,
+   "title": "לבדוק לורד מפריז תוכניות בניין עיר",
+   "status": "done",
+   "doneAt": "2026-11-19T04:55:01.983Z",
    "list": null
   },
   {
@@ -1390,6 +1606,14 @@
    "list": null
   },
   {
+   "id": "mwhu0ythm12dw",
+   "extId": null,
+   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
+   "status": "done",
+   "doneAt": "2026-11-18T16:30:35.255Z",
+   "list": null
+  },
+  {
    "id": "mwi54uxqat092",
    "extId": "gm-1a1df40b3e61b7ee",
    "title": "משלוח FedEx מהונג קונג – לבחור איסוף עצמי מנקודת חלוקה או להמתין לשחרור ממכס",
@@ -1428,12 +1652,28 @@
    "status": "done",
    "doneAt": "2026-11-16T15:40:29.711Z",
    "list": null
+  },
+  {
+   "id": "mwmetr53yhfv8",
+   "extId": null,
+   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
+   "status": "done",
+   "doneAt": "2026-11-19T04:55:39.794Z",
+   "list": null
+  },
+  {
+   "id": "mwmev3s19e7uq",
+   "extId": null,
+   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
+   "status": "done",
+   "doneAt": "2026-11-19T04:55:10.051Z",
+   "list": null
   }
  ],
  "stats": {
-  "open": 22,
+  "open": 25,
   "overdue": 0,
-  "stuck": 4,
+  "stuck": 3,
   "lists": [
    {
     "name": "רעיונות",
