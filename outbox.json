@@ -1,98 +1,28 @@
 {
- "generated": "2026-11-19T05:42:15.982Z",
+ "generated": "2026-11-20T05:06:23.273Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-18T09:01:00.667Z",
+ "since_last_sync": "2026-11-19T05:42:21.298Z",
  "events_since_last_sync": [
   {
-   "ts": "2026-11-18T16:30:40.259Z",
+   "ts": "2026-11-19T16:09:54.474Z",
    "type": "done",
-   "id": "mwhu0ythm12dw",
-   "device": "טלפון",
-   "extId": null,
-   "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
-   "list": null,
-   "date": "2026-11-18"
-  },
-  {
-   "ts": "2026-11-18T17:42:46.255Z",
-   "type": "added",
    "id": "mwmese2rkh422",
    "device": "טלפון",
    "extId": null,
    "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
    "list": null,
-   "date": "2026-11-18"
-  },
-  {
-   "ts": "2026-11-18T17:43:20.694Z",
-   "type": "added",
-   "id": "mwmeszzleo9l2",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "list": null,
-   "date": "2026-11-18"
-  },
-  {
-   "ts": "2026-11-18T17:43:49.631Z",
-   "type": "added",
-   "id": "mwmetr53yhfv8",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
-   "list": null,
-   "date": "2026-11-18"
-  },
-  {
-   "ts": "2026-11-18T17:44:26.594Z",
-   "type": "added",
-   "id": "mwmev3s19e7uq",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
-   "list": null,
-   "date": "2026-11-18"
-  },
-  {
-   "ts": "2026-11-18T17:45:24.804Z",
-   "type": "added",
-   "id": "mwmewcozfkgr0",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
-   "list": null,
-   "date": "2026-11-18"
-  },
-  {
-   "ts": "2026-11-19T04:55:06.986Z",
-   "type": "done",
-   "id": "mw4zcw9f2gf9w",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבדוק לורד מפריז תוכניות בניין עיר",
-   "list": null,
    "date": "2026-11-19"
   },
   {
-   "ts": "2026-11-19T04:55:15.057Z",
+   "ts": "2026-11-19T16:10:58.856Z",
    "type": "done",
-   "id": "mwmev3s19e7uq",
+   "id": "mwn2t67sgy3nn",
    "device": "טלפון",
-   "extId": null,
-   "title": "לבנות סוכן שירשום אותי כל שבוע לשיעור בקאןנטרי",
+   "extId": "gm-1a1eff299af540dd",
+   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
    "list": null,
-   "date": "2026-11-19"
-  },
-  {
-   "ts": "2026-11-19T04:55:44.798Z",
-   "type": "done",
-   "id": "mwmetr53yhfv8",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
-   "list": null,
-   "date": "2026-11-19"
+   "date": "2026-11-25"
   }
  ],
  "recent_events": [
@@ -1215,6 +1145,26 @@
    "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
    "list": null,
    "date": "2026-11-19"
+  },
+  {
+   "ts": "2026-11-19T16:09:54.474Z",
+   "type": "done",
+   "id": "mwmese2rkh422",
+   "device": "טלפון",
+   "extId": null,
+   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
+   "list": null,
+   "date": "2026-11-19"
+  },
+  {
+   "ts": "2026-11-19T16:10:58.856Z",
+   "type": "done",
+   "id": "mwn2t67sgy3nn",
+   "device": "טלפון",
+   "extId": "gm-1a1eff299af540dd",
+   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
+   "list": null,
+   "date": "2026-11-25"
   }
  ],
  "open_tasks": [
@@ -1222,18 +1172,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "list": null,
-   "rollovers": 14,
+   "rollovers": 15,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "list": null,
-   "rollovers": 14,
+   "rollovers": 15,
    "overdue": false
   },
   {
@@ -1393,52 +1343,43 @@
    "id": "mwi0sqnmcs07v",
    "extId": null,
    "title": "לאסוף תרופות",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "list": null,
-   "rollovers": 4,
-   "overdue": false
-  },
-  {
-   "id": "mwmese2rkh422",
-   "extId": null,
-   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
-   "date": "2026-11-19",
-   "list": null,
-   "rollovers": 1,
+   "rollovers": 5,
    "overdue": false
   },
   {
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "list": null,
-   "rollovers": 1,
+   "rollovers": 2,
    "overdue": false
   },
   {
    "id": "mwmewcozfkgr0",
    "extId": null,
    "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "list": null,
-   "rollovers": 1,
+   "rollovers": 2,
    "overdue": false
   },
   {
    "id": "mwmffglhxv0b5",
    "extId": "gm-1a1ee6c32286438c",
    "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "list": null,
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
-   "id": "mwn2t67sgy3nn",
-   "extId": "gm-1a1eff299af540dd",
-   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
-   "date": "2026-11-25",
+   "id": "mwo0okk2ij43x",
+   "extId": "gm-1a1f27fd87a0899b",
+   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
+   "date": "2026-11-20",
    "list": null,
    "rollovers": 0,
    "overdue": false
@@ -1654,6 +1595,14 @@
    "list": null
   },
   {
+   "id": "mwmese2rkh422",
+   "extId": null,
+   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
+   "status": "done",
+   "doneAt": "2026-11-19T16:09:49.469Z",
+   "list": null
+  },
+  {
    "id": "mwmetr53yhfv8",
    "extId": null,
    "title": "לבדוק סוכן קלוד להוריד מידע תכנוני של ורד",
@@ -1668,10 +1617,18 @@
    "status": "done",
    "doneAt": "2026-11-19T04:55:10.051Z",
    "list": null
+  },
+  {
+   "id": "mwn2t67sgy3nn",
+   "extId": "gm-1a1eff299af540dd",
+   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
+   "status": "done",
+   "doneAt": "2026-11-19T16:10:53.850Z",
+   "list": null
   }
  ],
  "stats": {
-  "open": 25,
+  "open": 24,
   "overdue": 0,
   "stuck": 3,
   "lists": [
