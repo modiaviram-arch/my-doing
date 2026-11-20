@@ -1,31 +1,7 @@
 {
- "generated": "2026-11-19T19:55:00+02:00",
+ "generated": "2026-11-20T06:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
-  {
-   "id": "tt-6aec2478adf4bec7a85c3d98",
-   "title": "לסגור השקייה, לפני הגשם",
-   "date": "2026-11-05",
-   "source": "ticktick"
-  },
-  {
-   "id": "tt-6ae98ca648f474e51ba5a3f3",
-   "title": "לנסות לתקן מחשב קטן",
-   "date": "2026-11-05",
-   "source": "ticktick"
-  },
-  {
-   "id": "tt-6ade35ea5a56b43b4e289dfa",
-   "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-05",
-   "source": "ticktick"
-  },
-  {
-   "id": "tt-6ade36175a56b43b4e289e09",
-   "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-05",
-   "source": "ticktick"
-  },
   {
    "id": "tt-6ae616c08f08415c287f05c7",
    "title": "לימון (מכל 1) – בדיקה חוזרת אחרי טיפול נים",
@@ -275,38 +251,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-e1t0nkhrt144jh22ufhnftb9cg_20261119T061500Z",
-   "date": "2026-11-19",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-6sp3cohkc4r3abb36ksmcb9kcopm4b9p68o3gb9kchgjcpj26kp6ao9n70",
-   "date": "2026-11-19",
-   "title": "דלית",
-   "start": "10:00",
-   "end": "11:00",
-   "location": null
-  },
-  {
-   "id": "cal-68p3ip32cgom4bb6c5j30b9kcks3eb9pcpi3abb3clh62dhh6hh3ae1h64",
-   "date": "2026-11-19",
-   "title": "חיסונים זואי",
-   "start": "12:00",
-   "end": "13:00",
-   "location": null
-  },
-  {
-   "id": "cal-7mc4mm7834f2gl8ehtfnn5o78s_20261119T145500Z",
-   "date": "2026-11-19",
-   "title": "יואב – סיום",
-   "start": "16:55",
-   "end": "16:56",
-   "location": null
-  },
-  {
    "id": "cal-181q68pkclbk0njqdskrdfgk5g_20261120T061500Z",
    "date": "2026-11-20",
    "title": "יואב – התחלה",
@@ -528,6 +472,30 @@
    "title": "יואב – סיום",
    "start": "16:10",
    "end": "16:11",
+   "location": null
+  },
+  {
+   "id": "cal-e1t0nkhrt144jh22ufhnftb9cg_20261203T061500Z",
+   "date": "2026-12-03",
+   "title": "יואב – התחלה",
+   "start": "08:15",
+   "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-cor6achk6tim4b9n6hh3ab9kclh3gb9pcgsj8b9lcphmaphhcpi6cc9o6k",
+   "date": "2026-12-03",
+   "title": "דלית",
+   "start": "10:10",
+   "end": "11:10",
+   "location": null
+  },
+  {
+   "id": "cal-7mc4mm7834f2gl8ehtfnn5o78s_20261203T145500Z",
+   "date": "2026-12-03",
+   "title": "יואב – סיום",
+   "start": "16:55",
+   "end": "16:56",
    "location": null
   }
  ]
