@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T06:55:00+02:00",
+ "generated": "2026-11-21T06:52:37+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -251,30 +251,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-181q68pkclbk0njqdskrdfgk5g_20261120T061500Z",
-   "date": "2026-11-20",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-e32ljmmpua6kiragtq4cfpdd3o_20261120T112500Z",
-   "date": "2026-11-20",
-   "title": "יואב – סיום",
-   "start": "13:25",
-   "end": "13:26",
-   "location": null
-  },
-  {
-   "id": "cal-gv55t9e2c1livmag832nmvp27g_20261120T145500Z",
-   "date": "2026-11-20",
-   "title": "להירשם לפלדנקרייז (ראשון 17:00) באפליקציית הקאנטרי",
-   "start": "16:55",
-   "end": "17:05",
-   "location": null
-  },
-  {
    "id": "cal-65im8chm75h30b9nckojab9kc8qm4bb2ckqjib9hckpj8eb475gjgopgcg",
    "date": "2026-11-21",
    "title": "סרט",
@@ -296,6 +272,14 @@
    "title": "יואב – סיום",
    "start": "11:40",
    "end": "11:41",
+   "location": null
+  },
+  {
+   "id": "cal-6go68dr36goj6bb56opjcb9k71ijgb9p6lgjcb9m74sm2cj171im6phoc8",
+   "date": "2026-11-22",
+   "title": "⏰ שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
+   "start": "17:00",
+   "end": "18:00",
    "location": null
   },
   {
@@ -376,6 +360,14 @@
    "title": "יואב – התחלה",
    "start": "08:15",
    "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-70r38d1g68ojibb16srjib9kc8ojibb161i32b9g60r6cob46opmcdpic4",
+   "date": "2026-11-27",
+   "title": "אמא תבוא אלינו עד שבת",
+   "start": "10:30",
+   "end": "11:30",
    "location": null
   },
   {
@@ -496,6 +488,30 @@
    "title": "יואב – סיום",
    "start": "16:55",
    "end": "16:56",
+   "location": null
+  },
+  {
+   "id": "cal-181q68pkclbk0njqdskrdfgk5g_20261204T061500Z",
+   "date": "2026-12-04",
+   "title": "יואב – התחלה",
+   "start": "08:15",
+   "end": "08:16",
+   "location": null
+  },
+  {
+   "id": "cal-e32ljmmpua6kiragtq4cfpdd3o_20261204T112500Z",
+   "date": "2026-12-04",
+   "title": "יואב – סיום",
+   "start": "13:25",
+   "end": "13:26",
+   "location": null
+  },
+  {
+   "id": "cal-gv55t9e2c1livmag832nmvp27g_20261204T145500Z",
+   "date": "2026-12-04",
+   "title": "להירשם לפלדנקרייז (ראשון 17:00) באפליקציית הקאנטרי",
+   "start": "16:55",
+   "end": "17:05",
    "location": null
   }
  ]
