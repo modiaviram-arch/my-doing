@@ -1,28 +1,48 @@
 {
- "generated": "2026-11-20T05:06:23.273Z",
+ "generated": "2026-11-21T04:46:31.565Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-19T05:42:21.298Z",
+ "since_last_sync": "2026-11-20T05:06:27.957Z",
  "events_since_last_sync": [
   {
-   "ts": "2026-11-19T16:09:54.474Z",
+   "ts": "2026-11-20T05:06:35.247Z",
    "type": "done",
-   "id": "mwmese2rkh422",
+   "id": "mwo0okk2ij43x",
    "device": "טלפון",
-   "extId": null,
-   "title": "להוריד את התמונות מענן גוגל ולמיין אותן",
+   "extId": "gm-1a1f27fd87a0899b",
+   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
    "list": null,
-   "date": "2026-11-19"
+   "date": "2026-11-20"
   },
   {
-   "ts": "2026-11-19T16:10:58.856Z",
+   "ts": "2026-11-20T05:06:53.307Z",
    "type": "done",
-   "id": "mwn2t67sgy3nn",
+   "id": "mwdgn7efrco6b",
    "device": "טלפון",
-   "extId": "gm-1a1eff299af540dd",
-   "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
+   "extId": "cl-garden-20261110-2",
+   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
+   "list": "גינה",
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-20T17:16:54.964Z",
+   "type": "done",
+   "id": "mwmffglhxv0b5",
+   "device": "טלפון",
+   "extId": "gm-1a1ee6c32286438c",
+   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
    "list": null,
-   "date": "2026-11-25"
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-20T17:17:06.611Z",
+   "type": "done",
+   "id": "mwmewcozfkgr0",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
+   "list": null,
+   "date": "2026-11-20"
   }
  ],
  "recent_events": [
@@ -1165,6 +1185,46 @@
    "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
    "list": null,
    "date": "2026-11-25"
+  },
+  {
+   "ts": "2026-11-20T05:06:35.247Z",
+   "type": "done",
+   "id": "mwo0okk2ij43x",
+   "device": "טלפון",
+   "extId": "gm-1a1f27fd87a0899b",
+   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
+   "list": null,
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-20T05:06:53.307Z",
+   "type": "done",
+   "id": "mwdgn7efrco6b",
+   "device": "טלפון",
+   "extId": "cl-garden-20261110-2",
+   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
+   "list": "גינה",
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-20T17:16:54.964Z",
+   "type": "done",
+   "id": "mwmffglhxv0b5",
+   "device": "טלפון",
+   "extId": "gm-1a1ee6c32286438c",
+   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
+   "list": null,
+   "date": "2026-11-20"
+  },
+  {
+   "ts": "2026-11-20T17:17:06.611Z",
+   "type": "done",
+   "id": "mwmewcozfkgr0",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
+   "list": null,
+   "date": "2026-11-20"
   }
  ],
  "open_tasks": [
@@ -1172,18 +1232,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "list": null,
-   "rollovers": 15,
+   "rollovers": 16,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "list": null,
-   "rollovers": 15,
+   "rollovers": 16,
    "overdue": false
   },
   {
@@ -1271,9 +1331,9 @@
    "id": "mw7p7i5qondot",
    "extId": "cl-nyc-20261108-6",
    "title": "ביטוח נסיעות לחו\"ל 15–30.12, לרחל ולי",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "list": "נסיעות",
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
@@ -1322,15 +1382,6 @@
    "overdue": false
   },
   {
-   "id": "mwdgn7efrco6b",
-   "extId": "cl-garden-20261110-2",
-   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
-   "date": "2026-11-20",
-   "list": "גינה",
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
    "id": "mwgcwlyxsj0hl",
    "extId": "cl-fiji-20261114-2",
    "title": "לשלם ל-NAI'A את היתרה, 5,085$ – עד 17.1.2027",
@@ -1343,45 +1394,18 @@
    "id": "mwi0sqnmcs07v",
    "extId": null,
    "title": "לאסוף תרופות",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "list": null,
-   "rollovers": 5,
+   "rollovers": 6,
    "overdue": false
   },
   {
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "list": null,
-   "rollovers": 2,
-   "overdue": false
-  },
-  {
-   "id": "mwmewcozfkgr0",
-   "extId": null,
-   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
-   "date": "2026-11-20",
-   "list": null,
-   "rollovers": 2,
-   "overdue": false
-  },
-  {
-   "id": "mwmffglhxv0b5",
-   "extId": "gm-1a1ee6c32286438c",
-   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
-   "date": "2026-11-20",
-   "list": null,
-   "rollovers": 1,
-   "overdue": false
-  },
-  {
-   "id": "mwo0okk2ij43x",
-   "extId": "gm-1a1f27fd87a0899b",
-   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
-   "date": "2026-11-20",
-   "list": null,
-   "rollovers": 0,
+   "rollovers": 3,
    "overdue": false
   }
  ],
@@ -1531,6 +1555,14 @@
    "list": "גינה"
   },
   {
+   "id": "mwdgn7efrco6b",
+   "extId": "cl-garden-20261110-2",
+   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
+   "status": "done",
+   "doneAt": "2026-11-20T05:06:48.303Z",
+   "list": "גינה"
+  },
+  {
    "id": "mwgcwlysrd4fg",
    "extId": "cl-fiji-20261114-1",
    "title": "לשלוח לדלית (dalit@ofakim.co.il) את טיסות נעמה לפיג'י",
@@ -1619,18 +1651,42 @@
    "list": null
   },
   {
+   "id": "mwmewcozfkgr0",
+   "extId": null,
+   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
+   "status": "done",
+   "doneAt": "2026-11-20T17:17:01.608Z",
+   "list": null
+  },
+  {
+   "id": "mwmffglhxv0b5",
+   "extId": "gm-1a1ee6c32286438c",
+   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
+   "status": "done",
+   "doneAt": "2026-11-20T17:16:49.957Z",
+   "list": null
+  },
+  {
    "id": "mwn2t67sgy3nn",
    "extId": "gm-1a1eff299af540dd",
    "title": "להוריד את ארכיון נתוני Google (Takeout) – זמין עד 25.11",
    "status": "done",
    "doneAt": "2026-11-19T16:10:53.850Z",
    "list": null
+  },
+  {
+   "id": "mwo0okk2ij43x",
+   "extId": "gm-1a1f27fd87a0899b",
+   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
+   "status": "done",
+   "doneAt": "2026-11-20T05:06:30.244Z",
+   "list": null
   }
  ],
  "stats": {
-  "open": 24,
+  "open": 20,
   "overdue": 0,
-  "stuck": 3,
+  "stuck": 4,
   "lists": [
    {
     "name": "רעיונות",
@@ -1650,7 +1706,7 @@
    },
    {
     "name": "גינה",
-    "open": 6
+    "open": 5
    },
    {
     "name": "קניות",
