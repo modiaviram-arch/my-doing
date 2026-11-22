@@ -1,50 +1,9 @@
 {
- "generated": "2026-11-21T04:46:31.565Z",
+ "generated": "2026-11-22T05:06:29.560Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-20T05:06:27.957Z",
- "events_since_last_sync": [
-  {
-   "ts": "2026-11-20T05:06:35.247Z",
-   "type": "done",
-   "id": "mwo0okk2ij43x",
-   "device": "טלפון",
-   "extId": "gm-1a1f27fd87a0899b",
-   "title": "לקבל משלוח FedEx – צפוי מחר עד 18:00",
-   "list": null,
-   "date": "2026-11-20"
-  },
-  {
-   "ts": "2026-11-20T05:06:53.307Z",
-   "type": "done",
-   "id": "mwdgn7efrco6b",
-   "device": "טלפון",
-   "extId": "cl-garden-20261110-2",
-   "title": "לימון (מכל 1) – בדיקה חוזרת: כנימות לבנות ושבילים חדשים",
-   "list": "גינה",
-   "date": "2026-11-20"
-  },
-  {
-   "ts": "2026-11-20T17:16:54.964Z",
-   "type": "done",
-   "id": "mwmffglhxv0b5",
-   "device": "טלפון",
-   "extId": "gm-1a1ee6c32286438c",
-   "title": "לאסוף חבילה מ-AliExpress ב-Parcel Home הרקפות, קריית טבעון",
-   "list": null,
-   "date": "2026-11-20"
-  },
-  {
-   "ts": "2026-11-20T17:17:06.611Z",
-   "type": "done",
-   "id": "mwmewcozfkgr0",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לבקש להתנסות באפייקציה של אמא כמשתמש, במקביל לווטסאפ הרגיל",
-   "list": null,
-   "date": "2026-11-20"
-  }
- ],
+ "since_last_sync": "2026-11-21T04:46:36.644Z",
+ "events_since_last_sync": [],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -1232,18 +1191,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "list": null,
-   "rollovers": 16,
+   "rollovers": 17,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "list": null,
-   "rollovers": 16,
+   "rollovers": 17,
    "overdue": false
   },
   {
@@ -1331,9 +1290,9 @@
    "id": "mw7p7i5qondot",
    "extId": "cl-nyc-20261108-6",
    "title": "ביטוח נסיעות לחו\"ל 15–30.12, לרחל ולי",
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "list": "נסיעות",
-   "rollovers": 1,
+   "rollovers": 2,
    "overdue": false
   },
   {
@@ -1394,18 +1353,18 @@
    "id": "mwi0sqnmcs07v",
    "extId": null,
    "title": "לאסוף תרופות",
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "list": null,
-   "rollovers": 6,
+   "rollovers": 7,
    "overdue": false
   },
   {
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "list": null,
-   "rollovers": 3,
+   "rollovers": 4,
    "overdue": false
   }
  ],
