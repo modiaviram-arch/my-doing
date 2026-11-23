@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T19:52:40+02:00",
+ "generated": "2026-11-23T06:55:00+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -442,30 +442,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-25cviemqqs20m3venhj5kof0ss_20261122T061500Z",
-   "date": "2026-11-22",
-   "title": "יואב – התחלה",
-   "start": "08:15",
-   "end": "08:16",
-   "location": null
-  },
-  {
-   "id": "cal-h7tqut1c5au7cj8qvkqo4u2rh8_20261122T094000Z",
-   "date": "2026-11-22",
-   "title": "יואב – סיום",
-   "start": "11:40",
-   "end": "11:41",
-   "location": null
-  },
-  {
-   "id": "cal-6go68dr36goj6bb56opjcb9k71ijgb9p6lgjcb9m74sm2cj171im6phoc8",
-   "date": "2026-11-22",
-   "title": "⏰ שיעור פלדנקרייז בקאנטרי קלאב עם אפרת",
-   "start": "17:00",
-   "end": "18:00",
-   "location": null
-  },
-  {
    "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261123T070500Z",
    "date": "2026-11-23",
    "title": "יואב – התחלה",
@@ -695,6 +671,14 @@
    "title": "להירשם לפלדנקרייז (ראשון 17:00) באפליקציית הקאנטרי",
    "start": "16:55",
    "end": "17:05",
+   "location": null
+  },
+  {
+   "id": "cal-75ij0d3269h68bb4c8q30b9k74sm2bb1c4p30b9j70smadhh70qj4opl6g",
+   "date": "2026-12-06",
+   "title": "תור לשירי ברעם רופאת שיניים",
+   "start": "19:00",
+   "end": "20:00",
    "location": null
   }
  ]
