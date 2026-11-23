@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T06:55:00+02:00",
+ "generated": "2026-11-23T19:52:52+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -438,6 +438,30 @@
    "list": "garden",
    "source": "claude",
    "note": "פברואר–מרץ, רק אחרי שחלפה סכנת הקרה ולפני הלבלוב. לפתוח את מרכז העץ; חוטרים וענפים יבשים. האשכולית – רק באפריל–מאי, אחרי הקטיף."
+  },
+  {
+   "id": "gm-1a207d65276f2335",
+   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
+   "date": "2026-11-23",
+   "source": "delivery",
+   "note": "מקור: דואר ישראל, 23.11.2026",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882642517647631157"
+  },
+  {
+   "id": "gm-1a208ed28b1b31ae",
+   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
+   "date": "2026-11-25",
+   "source": "delivery",
+   "note": "מקור: Buzzr/ZIG-ZAG, 23.11.2026 (שתי הודעות) – מומלץ לאסוף תוך 48 שעות; לכל חבילה קוד איסוף נפרד במייל",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882661679168958894"
+  },
+  {
+   "id": "gm-1a2089546e1ac27c",
+   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
+   "date": "2026-11-23",
+   "source": "email",
+   "note": "מקור: הראל ביטוח, 23.11.2026",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882655639958372988"
   }
  ],
  "calendar": [
