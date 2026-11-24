@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T19:52:52+02:00",
+ "generated": "2026-11-24T06:51:55+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -462,33 +462,17 @@
    "source": "email",
    "note": "מקור: הראל ביטוח, 23.11.2026",
    "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882655639958372988"
+  },
+  {
+   "id": "gm-1a20b5c9e2d7ddf0",
+   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
+   "date": "2026-11-24",
+   "source": "email",
+   "note": "מקור: GPD (kendyz@gpd.hk), 24.11.2026",
+   "url": "https://mail.google.com/mail/?authuser=modiaviram@gmail.com#all/thread-f:1882704522939719152"
   }
  ],
  "calendar": [
-  {
-   "id": "cal-jhgj0uf4i74b2hbe5r0hcd57v8_20261123T070500Z",
-   "date": "2026-11-23",
-   "title": "יואב – התחלה",
-   "start": "09:05",
-   "end": "09:06",
-   "location": null
-  },
-  {
-   "id": "cal-6sp3ed9o69h66b9m71h6ab9k6li3gbb1ccojeb9h6os66dhp60r3ge316o",
-   "date": "2026-11-23",
-   "title": "ללכת לאסוף את הצ'ק של הדירה ממשרד העוד",
-   "start": "10:00",
-   "end": "11:00",
-   "location": null
-  },
-  {
-   "id": "cal-80r9f01nkgnn0fl1n1pa22nf2o_20261123T112500Z",
-   "date": "2026-11-23",
-   "title": "יואב – סיום",
-   "start": "13:25",
-   "end": "13:26",
-   "location": null
-  },
   {
    "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261124T053000Z",
    "date": "2026-11-24",
