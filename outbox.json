@@ -1,50 +1,9 @@
 {
- "generated": "2026-11-23T07:39:23.193Z",
+ "generated": "2026-11-24T05:39:12.767Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-22T05:06:34.272Z",
- "events_since_last_sync": [
-  {
-   "ts": "2026-11-22T10:53:07.832Z",
-   "type": "done",
-   "id": "mw7p7i5ig0z9h",
-   "device": "טלפון",
-   "extId": "claude-20261108-kurkum-harvest",
-   "title": "מכל 4.1 – שליפת הכורכום",
-   "list": null,
-   "date": "2026-11-23"
-  },
-  {
-   "ts": "2026-11-22T10:53:27.885Z",
-   "type": "done",
-   "id": "mw7p7i5lt649u",
-   "device": "טלפון",
-   "extId": "cl-garden-20261108-1",
-   "title": "כורכום (מכל 4.1) – לשלוף את קני השורש",
-   "list": "גינה",
-   "date": "2026-11-29"
-  },
-  {
-   "ts": "2026-11-22T10:53:31.467Z",
-   "type": "done",
-   "id": "mw7p7i5mro5az",
-   "device": "טלפון",
-   "extId": "cl-garden-20261108-3",
-   "title": "מכל 4.1 – רענון מצע אחרי הכורכום",
-   "list": "גינה",
-   "date": "2026-11-29"
-  },
-  {
-   "ts": "2026-11-22T10:53:54.106Z",
-   "type": "done",
-   "id": "mwrdvqaoryqxw",
-   "device": "טלפון",
-   "extId": "cl-garden-20261122-1",
-   "title": "סלק (4.2) – דילול שני ל-8–10 ס\"מ",
-   "list": "גינה",
-   "date": "2026-11-23"
-  }
- ],
+ "since_last_sync": "2026-11-23T07:39:27.668Z",
+ "events_since_last_sync": [],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -1272,18 +1231,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "list": null,
-   "rollovers": 18,
+   "rollovers": 19,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "list": null,
-   "rollovers": 18,
+   "rollovers": 19,
    "overdue": false
   },
   {
@@ -1344,9 +1303,9 @@
    "id": "mw7p7i5qondot",
    "extId": "cl-nyc-20261108-6",
    "title": "ביטוח נסיעות לחו\"ל 15–30.12, לרחל ולי",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "list": "נסיעות",
-   "rollovers": 3,
+   "rollovers": 4,
    "overdue": false
   },
   {
@@ -1407,18 +1366,18 @@
    "id": "mwi0sqnmcs07v",
    "extId": null,
    "title": "לאסוף תרופות",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "list": null,
-   "rollovers": 8,
+   "rollovers": 9,
    "overdue": false
   },
   {
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "list": null,
-   "rollovers": 5,
+   "rollovers": 6,
    "overdue": false
   },
   {
@@ -1625,6 +1584,42 @@
    "title": "לימון (מכל 1) – גיזום אוורור",
    "date": "2027-02-21",
    "list": "גינה",
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwu9lj8jktlov",
+   "extId": "gm-1a207d65276f2335",
+   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
+   "date": "2026-11-24",
+   "list": null,
+   "rollovers": 1,
+   "overdue": false
+  },
+  {
+   "id": "mwu9lj8o1xa8a",
+   "extId": "gm-1a208ed28b1b31ae",
+   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
+   "date": "2026-11-25",
+   "list": null,
+   "rollovers": 0,
+   "overdue": false
+  },
+  {
+   "id": "mwu9lj8psav5o",
+   "extId": "gm-1a2089546e1ac27c",
+   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
+   "date": "2026-11-24",
+   "list": null,
+   "rollovers": 1,
+   "overdue": false
+  },
+  {
+   "id": "mwu9lj8qowopf",
+   "extId": "gm-1a20b5c9e2d7ddf0",
+   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
+   "date": "2026-11-24",
+   "list": null,
    "rollovers": 0,
    "overdue": false
   }
@@ -1936,7 +1931,7 @@
   }
  ],
  "stats": {
-  "open": 40,
+  "open": 44,
   "overdue": 0,
   "stuck": 5,
   "lists": [
