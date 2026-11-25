@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T06:51:55+02:00",
+ "generated": "2026-11-25T06:52:40+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -474,22 +474,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-76prcoh56rc0j8p3dq1gbhvkkc_20261124T053000Z",
-   "date": "2026-11-24",
-   "title": "יואב – התחלה",
-   "start": "07:30",
-   "end": "07:31",
-   "location": null
-  },
-  {
-   "id": "cal-61i68cph68pj4b9k6gr6ab9k6sqj8b9p6soj0b9o70qjaohgcphj4p32co_20261124T095500Z",
-   "date": "2026-11-24",
-   "title": "יואב – סיום",
-   "start": "11:55",
-   "end": "11:56",
-   "location": null
-  },
-  {
    "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261125T090000Z",
    "date": "2026-11-25",
    "title": "פלדנקרייז",
@@ -687,6 +671,14 @@
    "title": "תור לשירי ברעם רופאת שיניים",
    "start": "19:00",
    "end": "20:00",
+   "location": null
+  },
+  {
+   "id": "cal-61i68cph68pj4b9k6gr6ab9k6sqj8b9p6soj0b9o70qjaohgcphj4p32co_20261208T095500Z",
+   "date": "2026-12-08",
+   "title": "יואב – סיום",
+   "start": "11:55",
+   "end": "11:56",
    "location": null
   }
  ]
