@@ -1,9 +1,60 @@
 {
- "generated": "2026-11-24T05:39:12.767Z",
+ "generated": "2026-11-25T22:16:41.904Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-23T07:39:27.668Z",
- "events_since_last_sync": [],
+ "since_last_sync": "2026-11-24T05:39:17.782Z",
+ "events_since_last_sync": [
+  {
+   "ts": "2026-11-24T05:41:08.998Z",
+   "type": "done",
+   "id": "mwu9lj8qowopf",
+   "device": "טלפון",
+   "extId": "gm-1a20b5c9e2d7ddf0",
+   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T07:29:53.374Z",
+   "type": "done",
+   "id": "mwi0sqnmcs07v",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לאסוף תרופות",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T16:37:10.907Z",
+   "type": "done",
+   "id": "mwu9lj8psav5o",
+   "device": "טלפון",
+   "extId": "gm-1a2089546e1ac27c",
+   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T18:53:52.914Z",
+   "type": "done",
+   "id": "mwu9lj8jktlov",
+   "device": "טלפון",
+   "extId": "gm-1a207d65276f2335",
+   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T18:55:19.842Z",
+   "type": "added",
+   "id": "mwv21dlqyt7cf",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לשנות השקייה ל 2×5",
+   "list": null,
+   "date": "2026-11-24"
+  }
+ ],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -1224,6 +1275,56 @@
    "title": "סלק (4.2) – דילול שני ל-8–10 ס\"מ",
    "list": "גינה",
    "date": "2026-11-23"
+  },
+  {
+   "ts": "2026-11-24T05:41:08.998Z",
+   "type": "done",
+   "id": "mwu9lj8qowopf",
+   "device": "טלפון",
+   "extId": "gm-1a20b5c9e2d7ddf0",
+   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T07:29:53.374Z",
+   "type": "done",
+   "id": "mwi0sqnmcs07v",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לאסוף תרופות",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T16:37:10.907Z",
+   "type": "done",
+   "id": "mwu9lj8psav5o",
+   "device": "טלפון",
+   "extId": "gm-1a2089546e1ac27c",
+   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T18:53:52.914Z",
+   "type": "done",
+   "id": "mwu9lj8jktlov",
+   "device": "טלפון",
+   "extId": "gm-1a207d65276f2335",
+   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
+   "list": null,
+   "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-24T18:55:19.842Z",
+   "type": "added",
+   "id": "mwv21dlqyt7cf",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לשנות השקייה ל 2×5",
+   "list": null,
+   "date": "2026-11-24"
   }
  ],
  "open_tasks": [
@@ -1231,18 +1332,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-24",
+   "date": "2026-11-26",
    "list": null,
-   "rollovers": 19,
+   "rollovers": 20,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-24",
+   "date": "2026-11-26",
    "list": null,
-   "rollovers": 19,
+   "rollovers": 20,
    "overdue": false
   },
   {
@@ -1303,9 +1404,9 @@
    "id": "mw7p7i5qondot",
    "extId": "cl-nyc-20261108-6",
    "title": "ביטוח נסיעות לחו\"ל 15–30.12, לרחל ולי",
-   "date": "2026-11-24",
+   "date": "2026-11-26",
    "list": "נסיעות",
-   "rollovers": 4,
+   "rollovers": 5,
    "overdue": false
   },
   {
@@ -1321,9 +1422,9 @@
    "id": "mw7p7i5r9u9m7",
    "extId": "cl-nyc-20261108-7",
    "title": "לקנות מתנות לגל (7) ואדם (4) לנסיעה",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "list": "נסיעות",
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
@@ -1363,21 +1464,12 @@
    "overdue": false
   },
   {
-   "id": "mwi0sqnmcs07v",
-   "extId": null,
-   "title": "לאסוף תרופות",
-   "date": "2026-11-24",
-   "list": null,
-   "rollovers": 9,
-   "overdue": false
-  },
-  {
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-24",
+   "date": "2026-11-26",
    "list": null,
-   "rollovers": 6,
+   "rollovers": 7,
    "overdue": false
   },
   {
@@ -1588,39 +1680,21 @@
    "overdue": false
   },
   {
-   "id": "mwu9lj8jktlov",
-   "extId": "gm-1a207d65276f2335",
-   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
-   "date": "2026-11-24",
-   "list": null,
-   "rollovers": 1,
-   "overdue": false
-  },
-  {
    "id": "mwu9lj8o1xa8a",
    "extId": "gm-1a208ed28b1b31ae",
    "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
-   "date": "2026-11-25",
-   "list": null,
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
-   "id": "mwu9lj8psav5o",
-   "extId": "gm-1a2089546e1ac27c",
-   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
-   "date": "2026-11-24",
+   "date": "2026-11-26",
    "list": null,
    "rollovers": 1,
    "overdue": false
   },
   {
-   "id": "mwu9lj8qowopf",
-   "extId": "gm-1a20b5c9e2d7ddf0",
-   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
-   "date": "2026-11-24",
+   "id": "mwv21dlqyt7cf",
+   "extId": null,
+   "title": "לשנות השקייה ל 2×5",
+   "date": "2026-11-26",
    "list": null,
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   }
  ],
@@ -1706,36 +1780,12 @@
    "list": "נסיעות"
   },
   {
-   "id": "mw7p7i5pegm4p",
-   "extId": "cl-nyc-20261108-4",
-   "title": "להזמין: Big Band Holidays, Jazz at Lincoln Center – חמישי 17.12",
-   "status": "done",
-   "doneAt": "2026-11-11T17:47:10.186Z",
-   "list": "נסיעות"
-  },
-  {
    "id": "mw7p7i5pruk6r",
    "extId": "cl-nyc-20261108-3",
    "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
    "status": "done",
    "doneAt": "2026-11-13T18:18:49.837Z",
    "list": "נסיעות"
-  },
-  {
-   "id": "mw7p7i5qk9pps",
-   "extId": "cl-nyc-20261108-5",
-   "title": "לבדוק תוקף דרכונים (רחל ואני) ואישור ESTA לכניסה לארה\"ב",
-   "status": "done",
-   "doneAt": "2026-11-11T17:47:11.150Z",
-   "list": "נסיעות"
-  },
-  {
-   "id": "mw89796madu2m",
-   "extId": null,
-   "title": "פגישה ב-12:15 עם אפרת נהרי אברהם",
-   "status": "done",
-   "doneAt": "2026-11-11T17:47:24.686Z",
-   "list": null
   },
   {
    "id": "mwahr7dy1i507",
@@ -1823,6 +1873,14 @@
    "title": "שיעור עם אפרת , באותה השעה כמו בשבוע שעבר",
    "status": "done",
    "doneAt": "2026-11-18T16:30:35.255Z",
+   "list": null
+  },
+  {
+   "id": "mwi0sqnmcs07v",
+   "extId": null,
+   "title": "לאסוף תרופות",
+   "status": "done",
+   "doneAt": "2026-11-24T07:29:48.368Z",
    "list": null
   },
   {
@@ -1928,12 +1986,36 @@
    "status": "done",
    "doneAt": "2026-11-22T10:53:49.100Z",
    "list": "גינה"
+  },
+  {
+   "id": "mwu9lj8jktlov",
+   "extId": "gm-1a207d65276f2335",
+   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
+   "status": "done",
+   "doneAt": "2026-11-24T18:53:47.910Z",
+   "list": null
+  },
+  {
+   "id": "mwu9lj8psav5o",
+   "extId": "gm-1a2089546e1ac27c",
+   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
+   "status": "done",
+   "doneAt": "2026-11-24T16:37:05.900Z",
+   "list": null
+  },
+  {
+   "id": "mwu9lj8qowopf",
+   "extId": "gm-1a20b5c9e2d7ddf0",
+   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
+   "status": "done",
+   "doneAt": "2026-11-24T05:41:03.995Z",
+   "list": null
   }
  ],
  "stats": {
-  "open": 44,
+  "open": 41,
   "overdue": 0,
-  "stuck": 5,
+  "stuck": 4,
   "lists": [
    {
     "name": "רעיונות",
