@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:52:49+02:00",
+ "generated": "2026-11-26T06:52:04+02:00",
  "note": "נכתב על ידי Claude",
  "tasks": [
   {
@@ -474,22 +474,6 @@
  ],
  "calendar": [
   {
-   "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261125T090000Z",
-   "date": "2026-11-25",
-   "title": "פלדנקרייז",
-   "start": "10:45",
-   "end": "11:45",
-   "location": null
-  },
-  {
-   "id": "cal-nqpefejns9mlj4jf4b9sc7ht6g_20261125T141000Z",
-   "date": "2026-11-25",
-   "title": "יואב – סיום",
-   "start": "16:10",
-   "end": "16:11",
-   "location": null
-  },
-  {
    "id": "cal-e1t0nkhrt144jh22ufhnftb9cg_20261126T061500Z",
    "date": "2026-11-26",
    "title": "יואב – התחלה",
@@ -679,6 +663,14 @@
    "title": "יואב – סיום",
    "start": "11:55",
    "end": "11:56",
+   "location": null
+  },
+  {
+   "id": "cal-nvvn9jgkfucfd5o9k18jadpiag_20261209T090000Z",
+   "date": "2026-12-09",
+   "title": "פלדנקרייז",
+   "start": "11:00",
+   "end": "12:00",
    "location": null
   }
  ]
