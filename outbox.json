@@ -1,58 +1,48 @@
 {
- "generated": "2026-11-25T22:16:41.904Z",
+ "generated": "2026-11-27T05:28:52.098Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-24T05:39:17.782Z",
+ "since_last_sync": "2026-11-25T22:16:47.136Z",
  "events_since_last_sync": [
   {
-   "ts": "2026-11-24T05:41:08.998Z",
+   "ts": "2026-11-25T22:16:54.841Z",
    "type": "done",
-   "id": "mwu9lj8qowopf",
+   "id": "mwu9lj8o1xa8a",
    "device": "טלפון",
-   "extId": "gm-1a20b5c9e2d7ddf0",
-   "title": "לאשר ל-GPD את פרטי המשלוח להזמנת Pocket 4 מ-Indiegogo",
+   "extId": "gm-1a208ed28b1b31ae",
+   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
    "list": null,
-   "date": "2026-11-24"
+   "date": "2026-11-26"
   },
   {
-   "ts": "2026-11-24T07:29:53.374Z",
+   "ts": "2026-11-25T22:17:25.292Z",
    "type": "done",
-   "id": "mwi0sqnmcs07v",
+   "id": "mwrdvqauhd3qy",
    "device": "טלפון",
-   "extId": null,
-   "title": "לאסוף תרופות",
-   "list": null,
-   "date": "2026-11-24"
+   "extId": "cl-garden-20261122-7",
+   "title": "לימון (מכל 1) – גירוד 5–10 ס\"מ מצע והחלפה בקומפוסט",
+   "list": "גינה",
+   "date": "2026-11-30"
   },
   {
-   "ts": "2026-11-24T16:37:10.907Z",
+   "ts": "2026-11-25T22:17:36.940Z",
    "type": "done",
-   "id": "mwu9lj8psav5o",
+   "id": "mw7p7i5oxf2t3",
    "device": "טלפון",
-   "extId": "gm-1a2089546e1ac27c",
-   "title": "לעיין בהודעה מהראל פנסיה וגמל על הליך ההצטרפות",
-   "list": null,
-   "date": "2026-11-24"
+   "extId": "cl-garden-20261108-6",
+   "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
+   "list": "גינה",
+   "date": "2026-12-02"
   },
   {
-   "ts": "2026-11-24T18:53:52.914Z",
+   "ts": "2026-11-26T05:26:21.719Z",
    "type": "done",
-   "id": "mwu9lj8jktlov",
-   "device": "טלפון",
-   "extId": "gm-1a207d65276f2335",
-   "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
-   "list": null,
-   "date": "2026-11-24"
-  },
-  {
-   "ts": "2026-11-24T18:55:19.842Z",
-   "type": "added",
    "id": "mwv21dlqyt7cf",
    "device": "טלפון",
    "extId": null,
    "title": "לשנות השקייה ל 2×5",
    "list": null,
-   "date": "2026-11-24"
+   "date": "2026-11-26"
   }
  ],
  "recent_events": [
@@ -1325,6 +1315,46 @@
    "title": "לשנות השקייה ל 2×5",
    "list": null,
    "date": "2026-11-24"
+  },
+  {
+   "ts": "2026-11-25T22:16:54.841Z",
+   "type": "done",
+   "id": "mwu9lj8o1xa8a",
+   "device": "טלפון",
+   "extId": "gm-1a208ed28b1b31ae",
+   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
+   "list": null,
+   "date": "2026-11-26"
+  },
+  {
+   "ts": "2026-11-25T22:17:25.292Z",
+   "type": "done",
+   "id": "mwrdvqauhd3qy",
+   "device": "טלפון",
+   "extId": "cl-garden-20261122-7",
+   "title": "לימון (מכל 1) – גירוד 5–10 ס\"מ מצע והחלפה בקומפוסט",
+   "list": "גינה",
+   "date": "2026-11-30"
+  },
+  {
+   "ts": "2026-11-25T22:17:36.940Z",
+   "type": "done",
+   "id": "mw7p7i5oxf2t3",
+   "device": "טלפון",
+   "extId": "cl-garden-20261108-6",
+   "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
+   "list": "גינה",
+   "date": "2026-12-02"
+  },
+  {
+   "ts": "2026-11-26T05:26:21.719Z",
+   "type": "done",
+   "id": "mwv21dlqyt7cf",
+   "device": "טלפון",
+   "extId": null,
+   "title": "לשנות השקייה ל 2×5",
+   "list": null,
+   "date": "2026-11-26"
   }
  ],
  "open_tasks": [
@@ -1332,18 +1362,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "list": null,
-   "rollovers": 20,
+   "rollovers": 21,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "list": null,
-   "rollovers": 20,
+   "rollovers": 21,
    "overdue": false
   },
   {
@@ -1392,21 +1422,12 @@
    "overdue": false
   },
   {
-   "id": "mw7p7i5oxf2t3",
-   "extId": "cl-garden-20261108-6",
-   "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
-   "date": "2026-12-02",
-   "list": "גינה",
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
    "id": "mw7p7i5qondot",
    "extId": "cl-nyc-20261108-6",
    "title": "ביטוח נסיעות לחו\"ל 15–30.12, לרחל ולי",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "list": "נסיעות",
-   "rollovers": 5,
+   "rollovers": 6,
    "overdue": false
   },
   {
@@ -1422,9 +1443,9 @@
    "id": "mw7p7i5r9u9m7",
    "extId": "cl-nyc-20261108-7",
    "title": "לקנות מתנות לגל (7) ואדם (4) לנסיעה",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "list": "נסיעות",
-   "rollovers": 1,
+   "rollovers": 2,
    "overdue": false
   },
   {
@@ -1467,18 +1488,18 @@
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "list": null,
-   "rollovers": 7,
+   "rollovers": 8,
    "overdue": false
   },
   {
    "id": "mwrdvqaq1zsvw",
    "extId": "cl-garden-20261122-2",
    "title": "פסיפלורות (6.2, 6.3) – ברזל כלאטי וגיזום ניקוי",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "list": "גינה",
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
@@ -1513,15 +1534,6 @@
    "extId": "cl-garden-20261122-6",
    "title": "לדווח לקלוד: תווית דשן ההדר, ספירת יבול הרימון/אשכולית ומה נשתל איפה",
    "date": "2026-11-29",
-   "list": "גינה",
-   "rollovers": 0,
-   "overdue": false
-  },
-  {
-   "id": "mwrdvqauhd3qy",
-   "extId": "cl-garden-20261122-7",
-   "title": "לימון (מכל 1) – גירוד 5–10 ס\"מ מצע והחלפה בקומפוסט",
-   "date": "2026-11-30",
    "list": "גינה",
    "rollovers": 0,
    "overdue": false
@@ -1678,24 +1690,6 @@
    "list": "גינה",
    "rollovers": 0,
    "overdue": false
-  },
-  {
-   "id": "mwu9lj8o1xa8a",
-   "extId": "gm-1a208ed28b1b31ae",
-   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
-   "date": "2026-11-26",
-   "list": null,
-   "rollovers": 1,
-   "overdue": false
-  },
-  {
-   "id": "mwv21dlqyt7cf",
-   "extId": null,
-   "title": "לשנות השקייה ל 2×5",
-   "date": "2026-11-26",
-   "list": null,
-   "rollovers": 1,
-   "overdue": false
   }
  ],
  "done_last_14_days": [
@@ -1780,6 +1774,14 @@
    "list": "נסיעות"
   },
   {
+   "id": "mw7p7i5oxf2t3",
+   "extId": "cl-garden-20261108-6",
+   "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
+   "status": "done",
+   "doneAt": "2026-11-25T22:17:31.939Z",
+   "list": "גינה"
+  },
+  {
    "id": "mw7p7i5pruk6r",
    "extId": "cl-nyc-20261108-3",
    "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
@@ -1809,30 +1811,6 @@
    "title": "לבדוק לימון לאחר ריסוס",
    "status": "done",
    "doneAt": "2026-11-15T10:37:58.486Z",
-   "list": null
-  },
-  {
-   "id": "mwck9o4k1gmg8",
-   "extId": null,
-   "title": "לבדוק האם נדרש לפתוח את ההשקייה",
-   "status": "done",
-   "doneAt": "2026-11-12T06:23:14.524Z",
-   "list": null
-  },
-  {
-   "id": "mwd6eowzzxpg1",
-   "extId": null,
-   "title": "לעבור במשרד לקחת את המחשב המתוקן",
-   "status": "done",
-   "doneAt": "2026-11-12T07:48:21.823Z",
-   "list": null
-  },
-  {
-   "id": "mwd8ybfy0658s",
-   "extId": null,
-   "title": "לבדוק באם לפתוח השקייה",
-   "status": "done",
-   "doneAt": "2026-11-12T17:59:10.184Z",
    "list": null
   },
   {
@@ -1988,11 +1966,27 @@
    "list": "גינה"
   },
   {
+   "id": "mwrdvqauhd3qy",
+   "extId": "cl-garden-20261122-7",
+   "title": "לימון (מכל 1) – גירוד 5–10 ס\"מ מצע והחלפה בקומפוסט",
+   "status": "done",
+   "doneAt": "2026-11-25T22:17:20.287Z",
+   "list": "גינה"
+  },
+  {
    "id": "mwu9lj8jktlov",
    "extId": "gm-1a207d65276f2335",
    "title": "לאסוף חבילה מ-Temu (דואר ישראל) במינימרקט מור, ככר בן גוריון, קריית טבעון",
    "status": "done",
    "doneAt": "2026-11-24T18:53:47.910Z",
+   "list": null
+  },
+  {
+   "id": "mwu9lj8o1xa8a",
+   "extId": "gm-1a208ed28b1b31ae",
+   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
+   "status": "done",
+   "doneAt": "2026-11-25T22:16:49.837Z",
    "list": null
   },
   {
@@ -2010,10 +2004,18 @@
    "status": "done",
    "doneAt": "2026-11-24T05:41:03.995Z",
    "list": null
+  },
+  {
+   "id": "mwv21dlqyt7cf",
+   "extId": null,
+   "title": "לשנות השקייה ל 2×5",
+   "status": "done",
+   "doneAt": "2026-11-26T05:26:16.715Z",
+   "list": null
   }
  ],
  "stats": {
-  "open": 41,
+  "open": 37,
   "overdue": 0,
   "stuck": 4,
   "lists": [
@@ -2035,7 +2037,7 @@
    },
    {
     "name": "גינה",
-    "open": 26
+    "open": 24
    },
    {
     "name": "קניות",
