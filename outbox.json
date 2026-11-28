@@ -1,50 +1,9 @@
 {
- "generated": "2026-11-27T05:28:52.098Z",
+ "generated": "2026-11-28T08:38:44.112Z",
  "app": "0.34",
  "note": "נכתב על ידי My Doing בטלפון — קריאה בלבד עבור Claude",
- "since_last_sync": "2026-11-25T22:16:47.136Z",
- "events_since_last_sync": [
-  {
-   "ts": "2026-11-25T22:16:54.841Z",
-   "type": "done",
-   "id": "mwu9lj8o1xa8a",
-   "device": "טלפון",
-   "extId": "gm-1a208ed28b1b31ae",
-   "title": "לאסוף 2 חבילות (FedEx + חבילה מחו\"ל) מ-ZIG-ZAG בפט סייף, זייד אלכסנדר 7, קריית טבעון",
-   "list": null,
-   "date": "2026-11-26"
-  },
-  {
-   "ts": "2026-11-25T22:17:25.292Z",
-   "type": "done",
-   "id": "mwrdvqauhd3qy",
-   "device": "טלפון",
-   "extId": "cl-garden-20261122-7",
-   "title": "לימון (מכל 1) – גירוד 5–10 ס\"מ מצע והחלפה בקומפוסט",
-   "list": "גינה",
-   "date": "2026-11-30"
-  },
-  {
-   "ts": "2026-11-25T22:17:36.940Z",
-   "type": "done",
-   "id": "mw7p7i5oxf2t3",
-   "device": "טלפון",
-   "extId": "cl-garden-20261108-6",
-   "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
-   "list": "גינה",
-   "date": "2026-12-02"
-  },
-  {
-   "ts": "2026-11-26T05:26:21.719Z",
-   "type": "done",
-   "id": "mwv21dlqyt7cf",
-   "device": "טלפון",
-   "extId": null,
-   "title": "לשנות השקייה ל 2×5",
-   "list": null,
-   "date": "2026-11-26"
-  }
- ],
+ "since_last_sync": "2026-11-27T05:28:57.405Z",
+ "events_since_last_sync": [],
  "recent_events": [
   {
    "ts": "2026-11-08T13:17:51.564Z",
@@ -1362,18 +1321,18 @@
    "id": "mw4xrlqwtt5xg",
    "extId": "tt-6ade36175a56b43b4e289e09",
    "title": "להתחיל לעשות תרגילי כח",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": null,
-   "rollovers": 21,
+   "rollovers": 22,
    "overdue": false
   },
   {
    "id": "mw4xrlqwtx2bd",
    "extId": "tt-6ade35ea5a56b43b4e289dfa",
    "title": "להוסיף שיעור פלדנקרייז מהאינטרנט",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": null,
-   "rollovers": 21,
+   "rollovers": 22,
    "overdue": false
   },
   {
@@ -1416,18 +1375,18 @@
    "id": "mw7p7i5mqieyg",
    "extId": "cl-garden-20261108-4",
    "title": "לקנות שתילים למכל 4.1: 4 מנגולד, 6–8 חסה (ערבית/רומית), 6 תרד",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": "גינה",
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
    "id": "mw7p7i5qondot",
    "extId": "cl-nyc-20261108-6",
    "title": "ביטוח נסיעות לחו\"ל 15–30.12, לרחל ולי",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": "נסיעות",
-   "rollovers": 6,
+   "rollovers": 7,
    "overdue": false
   },
   {
@@ -1443,9 +1402,9 @@
    "id": "mw7p7i5r9u9m7",
    "extId": "cl-nyc-20261108-7",
    "title": "לקנות מתנות לגל (7) ואדם (4) לנסיעה",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": "נסיעות",
-   "rollovers": 2,
+   "rollovers": 3,
    "overdue": false
   },
   {
@@ -1488,27 +1447,27 @@
    "id": "mwmeszzleo9l2",
    "extId": null,
    "title": "לבדוק בחנות גוגל את ההתחייבויות בכל חשבונות הדואר שלי",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": null,
-   "rollovers": 8,
+   "rollovers": 9,
    "overdue": false
   },
   {
    "id": "mwrdvqaq1zsvw",
    "extId": "cl-garden-20261122-2",
    "title": "פסיפלורות (6.2, 6.3) – ברזל כלאטי וגיזום ניקוי",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": "גינה",
-   "rollovers": 1,
+   "rollovers": 2,
    "overdue": false
   },
   {
    "id": "mwrdvqaqs5zxx",
    "extId": "cl-garden-20261122-3",
    "title": "מלכודות בירה לשבלולים – לרוקן ולמלא",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": "גינה",
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
@@ -1524,9 +1483,9 @@
    "id": "mwrdvqarga4nv",
    "extId": "cl-garden-20261122-4",
    "title": "ראש המערכת – ניקוי מסנן וצילום מסך הבקר",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "list": "גינה",
-   "rollovers": 0,
+   "rollovers": 1,
    "overdue": false
   },
   {
@@ -1690,25 +1649,18 @@
    "list": "גינה",
    "rollovers": 0,
    "overdue": false
+  },
+  {
+   "id": "mx05rt7apg9a1",
+   "extId": "gm-1a21d9b5b38fa527",
+   "title": "לפנות ל-BM Images (sales@bmimages.com) לבקשת תמונות ברזולוציה גבוהה של דיוקנאות פיום",
+   "date": "2026-11-28",
+   "list": null,
+   "rollovers": 0,
+   "overdue": false
   }
  ],
  "done_last_14_days": [
-  {
-   "id": "mw4xrlqvathde",
-   "extId": "tt-6ae98ca648f474e51ba5a3f3",
-   "title": "לנסות לתקן מחשב קטן",
-   "status": "done",
-   "doneAt": "2026-11-13T18:18:42.451Z",
-   "list": null
-  },
-  {
-   "id": "mw4xrlqx8dpkj",
-   "extId": "tt-6aeacb06e05889cee943c20c",
-   "title": "בדיקה לרחל",
-   "status": "done",
-   "doneAt": "2026-11-13T05:33:04.250Z",
-   "list": null
-  },
   {
    "id": "mw4xrlqxwnm4u",
    "extId": "tt-6ae616c08f08415c287f05c7",
@@ -1723,14 +1675,6 @@
    "title": "לבדוק לורד מפריז תוכניות בניין עיר",
    "status": "done",
    "doneAt": "2026-11-19T04:55:01.983Z",
-   "list": null
-  },
-  {
-   "id": "mw6c94crzvgfv",
-   "extId": null,
-   "title": "לקבוע טיפול עם באטריס",
-   "status": "done",
-   "doneAt": "2026-11-13T18:18:44.155Z",
    "list": null
   },
   {
@@ -1758,44 +1702,12 @@
    "list": "גינה"
   },
   {
-   "id": "mw7p7i5ofnmiq",
-   "extId": "cl-nyc-20261108-1",
-   "title": "נעמה – לאשר: פנויה בערב שלישי 22.12 (Rocky Horror)? ומתי מתחילה חופשת החורף של גל ואדם",
-   "status": "done",
-   "doneAt": "2026-11-13T18:18:57.641Z",
-   "list": "נסיעות"
-  },
-  {
-   "id": "mw7p7i5ovefmo",
-   "extId": "cl-nyc-20261108-2",
-   "title": "להזמין כרטיסים: The Rocky Horror Show – שלישי 22.12, 19:00, Studio 54",
-   "status": "done",
-   "doneAt": "2026-11-13T18:18:50.528Z",
-   "list": "נסיעות"
-  },
-  {
    "id": "mw7p7i5oxf2t3",
    "extId": "cl-garden-20261108-6",
    "title": "לדווח לקלוד: שליפת הכורכום ושתילת 4.1 בוצעו – לעדכון ספר הגינה",
    "status": "done",
    "doneAt": "2026-11-25T22:17:31.939Z",
    "list": "גינה"
-  },
-  {
-   "id": "mw7p7i5pruk6r",
-   "extId": "cl-nyc-20261108-3",
-   "title": "להזמין כרטיסים: Buena Vista Social Club – מטינה רביעי 23.12, 14:00",
-   "status": "done",
-   "doneAt": "2026-11-13T18:18:49.837Z",
-   "list": "נסיעות"
-  },
-  {
-   "id": "mwahr7dy1i507",
-   "extId": "cl-rachel-ct-20261113",
-   "title": "CT קלציום סקור לרחל — אסותא חיפה (שד' ההסתדרות 55, קומה 3)",
-   "status": "done",
-   "doneAt": "2026-11-13T07:20:53.329Z",
-   "list": null
   },
   {
    "id": "mwauy7hh717bc",
@@ -1812,14 +1724,6 @@
    "status": "done",
    "doneAt": "2026-11-15T10:37:58.486Z",
    "list": null
-  },
-  {
-   "id": "mwdgn7ee69r54",
-   "extId": "cl-garden-20261110-1",
-   "title": "לימון (מכל 1) – ריסוס נים 2 נגד הכנימות הלבנות, הערב",
-   "status": "done",
-   "doneAt": "2026-11-13T18:18:47.299Z",
-   "list": "גינה"
   },
   {
    "id": "mwdgn7efrco6b",
@@ -2015,9 +1919,9 @@
   }
  ],
  "stats": {
-  "open": 37,
+  "open": 38,
   "overdue": 0,
-  "stuck": 4,
+  "stuck": 5,
   "lists": [
    {
     "name": "רעיונות",
